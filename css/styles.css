@@ -1,0 +1,48 @@
+/* Madison Bavosa, Emmanuel Pasteur, EJ Gasataya */
+/* CSC 315 - Databases (UI For Group Project on Sustainable Jersey)*/
+
+body{
+    background-color: #E2EFE1;
+    padding: 50px;
+
+}
+
+h1, h3{
+    font-family: 'Bebas Neue', cursive;
+}
+
+p{
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.intro-section{
+    border-color: #346335;
+    border-width: 3px !important;
+    background-color: #346335;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.img-thumbnail{
+    max-width: 20%;
+    margin-bottom: 1.1rem;
+}
+
+.query-box{
+    margin-bottom: 3rem;
+}
+
+.main-page-ui{
+    padding: 14px 16px;
+    text-align: center;
+    max-width: 50rem;
+    margin-left:  auto;
+    margin-right: auto;
+}
+
+.btn-primary{
+    background-color: #346335;
+    outline: none !important;
+    box-shadow: none !important;  
+}
+

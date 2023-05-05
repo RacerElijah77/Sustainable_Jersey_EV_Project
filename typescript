@@ -1,0 +1,426 @@
+Script started on 2023-04-10 12:37:59-04:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="180" LINES="51"]
+]0;lion@roscoe:~/github-classroom/TCNJ-degoodj/cab-project-6/sql_files[?2004h[01;32m[lion@roscoe[01;37m sql_files[01;32m]$[00m psql CAB_database
+[?2004l
+psql (15.2)
+Type "help" for help.
+
+[?2004hCAB_database=# \i ,u[K[Kmun_DDL_script.sql
+[?2004l
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+SELECT 713
+ALTER TABLE
+DELETE 592
+SELECT 713
+ALTER TABLE
+DELETE 416
+SELECT 713
+ALTER TABLE
+DELETE 468
+[?2004hCAB_database=# \i contains_DDL_script.sql
+[?2004l
+SELECT 298
+SELECT 121
+ALTER TABLE
+SELECT 121
+[?2004hCAB_database=# \i vehicle_DDL_scrit[Kpt.aq[K[Ksql
+[?2004l
+CREATE VIEW
+CREATE VIEW
+SELECT 3267
+ALTER TABLE
+[?2004hCAB_database=# \i example_DML_script.sql
+[?2004l
+ zip  |          city          
+------+------------------------
+ 8933 | NEW BRUNSWICK
+ 8906 | NEW BRUNSWICK
+ 8904 | HIGHLAND PARK
+ 8903 | NEW BRUNSWICK
+ 8902 | NORTH BRUNSWICK
+ 8901 | NEW BRUNSWICK
+ 8899 | EDISON
+ 8890 | ZAREPHATH
+ 8889 | WHITEHOUSE STATION
+ 8888 | WHITEHOUSE
+ 8887 | THREE BRIDGES
+ 8886 | STEWARTSVILLE
+ 8885 | STANTON
+ 8884 | SPOTSWOOD
+ 8882 | SOUTH RIVER
+ 8880 | SOUTH BOUND BROOK
+ 8879 | SOUTH AMBOY
+ 8876 | SOMERVILLE
+ 8875 | SOMERSET
+ 8873 | SOMERSET
+ 8872 | SAYREVILLE
+ 8871 | SAYREVILLE
+ 8870 | READINGTON
+ 8869 | RARITAN
+ 8868 | QUAKERTOWN
+ 8867 | PITTSTOWN
+ 8865 | PHILLIPSBURG
+ 8863 | FORDS
+ 8862 | PERTH AMBOY
+ 8861 | PERTH AMBOY
+ 8859 | PARLIN
+ 8858 | OLDWICK
+ 8857 | OLD BRIDGE
+ 8855 | PISCATAWAY
+ 8854 | PISCATAWAY
+ 8853 | NESHANIC STATION
+ 8852 | MONMOUTH JUNCTION
+ 8850 | MILLTOWN
+ 8848 | MILFORD
+ 8846 | MIDDLESEX
+ 8844 | HILLSBOROUGH
+ 8840 | METUCHEN
+ 8837 | EDISON
+ 8836 | MARTINSVILLE
+ 8835 | MANVILLE
+ 8833 | LEBANON
+ 8832 | KEASBEY
+ 8831 | MONROE TOWNSHIP
+[7m--More--[27m
+[K     mun_name     | zip  |   county   | mun2_id 
+------------------+------+------------+---------
+ Edison           | 8817 | Middlesex  |       1
+ Woodbridge       | 7095 | Middlesex  |      21
+ Toms River       | 8757 | Ocean      |      25
+ Cherry Hill      | 8034 | Camden     |      35
+ Piscataway       | 8854 | Middlesex  |      41
+ Wayne            | 7474 | Passaic    |      51
+ Union            | 7083 | Union      |      55
+ Lakewood         | 8701 | Ocean      |      57
+ Bridgewater      | 8807 | Somerset   |      63
+ Middletown       | 7748 | Monmouth   |      75
+ Secaucus         | 7094 | Hudson     |      77
+ Brick            | 8724 | Ocean      |      81
+ Mount Laurel     | 8054 | Burlington |      85
+ Old Bridge       | 8857 | Middlesex  |      87
+ East Brunswick   | 8816 | Middlesex  |      93
+ Morristown       | 7963 | Morris     |      97
+ Freehold         | 7728 | Monmouth   |     103
+ Washington       | 7882 | Warren     |     105
+ Howell           | 7731 | Monmouth   |     111
+ North Bergen     | 7047 | Hudson     |     113
+ North Brunswick  | 8902 | Middlesex  |     115
+ Kearny           | 7099 | Hudson     |     127
+ Jackson          | 8527 | Ocean      |     131
+ Montclair        | 7043 | Essex      |     141
+ Mahwah           | 7495 | Bergen     |     151
+ Deptford         | 8096 | Gloucester |     159
+ Marlboro         | 7746 | Monmouth   |     161
+ Fairfield        | 7004 | Essex      |     163
+ Winslow          | 8095 | Camden     |     165
+ West Orange      | 7052 | Essex      |     167
+ Livingston       | 7039 | Essex      |     169
+ Pennsauken       | 8110 | Camden     |     185
+ Princeton        | 8544 | Mercer     |     187
+ Burlington       | 8016 | Burlington |     197
+ Rockaway         | 7866 | Morris     |     199
+ Hammonton        | 8037 | Atlantic   |     203
+ Voorhees         | 8043 | Camden     |     209
+ Bloomfield       | 7003 | Essex      |     211
+ Neptune          | 7753 | Monmouth   |     213
+ Moorestown       | 8057 | Burlington |     227
+ Plainsboro       | 8536 | Middlesex  |     231
+ Montville        | 7045 | Morris     |     235
+ Teaneck          | 7666 | Bergen     |     237
+ Randolph         | 7869 | Morris     |     239
+ East Hanover     | 7936 | Morris     |     241
+ Millburn         | 7041 | Essex      |     247
+ Cranford         | 7016 | Union      |     249
+ Hopewell         | 8525 | Mercer     |     259
+[7m--More--[27m
+[K     mun_name     | zip  | ghg_total | ghg_id 
+------------------+------+-----------+--------
+ Edison           | 8817 | 623144.31 |      1
+ Edison           | 8817 | 548750.78 |     11
+ Woodbridge       | 7095 | 522892.87 |     21
+ Woodbridge       | 7095 |    423195 |     23
+ Toms River       | 8757 | 372792.53 |     25
+ Cherry Hill      | 8034 | 370116.83 |     35
+ Piscataway       | 8854 | 350117.92 |     41
+ Cherry Hill      | 8034 | 312129.97 |     45
+ Wayne            | 7474 | 308287.61 |     51
+ Union            | 7083 | 297998.31 |     55
+ Lakewood         | 8701 | 278905.91 |     57
+ Piscataway       | 8854 |  277775.3 |     59
+ Bridgewater      | 8807 | 277550.98 |     63
+ Toms River       | 8757 | 267920.91 |     65
+ Middletown       | 7748 | 257881.32 |     75
+ Secaucus         | 7094 | 254228.29 |     77
+ Brick            | 8724 | 250938.31 |     81
+ Mount Laurel     | 8054 | 249637.01 |     85
+ Old Bridge       | 8857 |  243733.6 |     87
+ Wayne            | 7474 | 242495.93 |     89
+ East Brunswick   | 8816 | 232377.18 |     93
+ Bridgewater      | 8807 | 224370.54 |     95
+ Morristown       | 7963 | 218184.07 |     97
+ Freehold         | 7728 | 217593.64 |    103
+ Washington       | 7882 | 216445.57 |    105
+ Secaucus         | 7094 | 208582.93 |    107
+ Howell           | 7731 | 208146.47 |    111
+ North Bergen     | 7047 | 207932.72 |    113
+ North Brunswick  | 8902 | 207732.24 |    115
+ Union            | 7083 |  200389.3 |    117
+ Lakewood         | 8701 | 195244.54 |    119
+ Freehold         | 7728 | 192967.67 |    121
+ Mount Laurel     | 8054 | 191672.22 |    123
+ East Brunswick   | 8816 | 191003.13 |    125
+ Kearny           | 7099 | 190274.97 |    127
+ Jackson          | 8527 | 184512.49 |    131
+ Howell           | 7731 | 183610.25 |    133
+ Brick            | 8724 | 174896.85 |    135
+ Middletown       | 7748 | 174719.86 |    139
+ Montclair        | 7043 | 170480.01 |    141
+ Jackson          | 8527 | 170405.18 |    145
+ Washington       | 7882 | 170074.89 |    147
+ North Brunswick  | 8902 |  169445.8 |    149
+ Mahwah           | 7495 | 168189.21 |    151
+ Old Bridge       | 8857 | 165846.44 |    155
+ North Bergen     | 7047 | 165007.04 |    157
+ Deptford         | 8096 | 164533.66 |    159
+ Marlboro         | 7746 | 164084.88 |    161
+[7m--More--[27m
+[K     mun_name     | zip  | vmt_total  | vmt_id 
+------------------+------+------------+--------
+ Edison           | 8817 | 1119929841 |      1
+ Edison           | 8817 | 1109091568 |      6
+ Woodbridge       | 7095 |  901823687 |     21
+ Woodbridge       | 7095 |  863502859 |     22
+ Toms River       | 8757 |  598059812 |     25
+ Toms River       | 8757 |  737314796 |     30
+ Cherry Hill      | 8034 |  710510095 |     35
+ Cherry Hill      | 8034 |  671912075 |     38
+ Piscataway       | 8854 |  619880498 |     41
+ Piscataway       | 8854 |  601294556 |     43
+ Wayne            | 7474 |  531310137 |     51
+ Wayne            | 7474 |  554417608 |     53
+ Union            | 7083 |  501666263 |     55
+ Union            | 7083 |  428576937 |     56
+ Lakewood         | 8701 |  598515992 |     57
+ Lakewood         | 8701 |  415483398 |     58
+ Bridgewater      | 8807 |  514467197 |     63
+ Bridgewater      | 8807 |  504769254 |     64
+ Middletown       | 7748 |  455495249 |     75
+ Middletown       | 7748 |  404542172 |     76
+ Secaucus         | 7094 |  541306492 |     77
+ Secaucus         | 7094 |  344776452 |     79
+ Brick            | 8724 |  489756322 |     81
+ Brick            | 8724 |  402526549 |     83
+ Mount Laurel     | 8054 |  412606585 |     85
+ Mount Laurel     | 8054 |  479226020 |     86
+ Old Bridge       | 8857 |  429226308 |     87
+ Old Bridge       | 8857 |  377812957 |     88
+ East Brunswick   | 8816 |  406672400 |     93
+ East Brunswick   | 8816 |  394972558 |     94
+ Morristown       | 7963 |  443331064 |     97
+ Morristown       | 7963 |  347205418 |    100
+ Freehold         | 7728 |  427190968 |    103
+ Freehold         | 7728 |  471652329 |    104
+ Washington       | 7882 |   55207505 |    105
+ Washington       | 7882 |   73818639 |    106
+ Howell           | 7731 |  422482227 |    111
+ Howell           | 7731 |  431677512 |    112
+ North Bergen     | 7047 |  269316953 |    113
+ North Bergen     | 7047 |  417953565 |    114
+ North Brunswick  | 8902 |  379351181 |    115
+ North Brunswick  | 8902 |  351911603 |    116
+ Kearny           | 7099 |  230236743 |    127
+ Kearny           | 7099 |  321933497 |    129
+ Jackson          | 8527 |  460270907 |    131
+ Jackson          | 8527 |  426046215 |    132
+ Montclair        | 7043 |  283839096 |    141
+ Montclair        | 7043 |  319026830 |    143
+[7m--More--[27m
+[K zip  | total_personal | num_evs |       percentage       
+------+----------------+---------+------------------------
+ 7606 |           2839 |       6 | 0.21134202183867559000
+ 7844 |           3061 |       8 | 0.26135249918327344000
+ 7848 |           3362 |       7 | 0.20820939916716240300
+ 7823 |           3382 |       4 | 0.11827321111768184500
+ 7863 |           3687 |       5 | 0.13561160835367507500
+ 8072 |           3874 |       3 | 0.07743933918430562700
+ 7803 |           4798 |       7 | 0.14589412255106294300
+ 8001 |           5241 |       8 | 0.15264262545315779400
+ 8512 |           5490 |      46 | 0.83788706739526411700
+ 7827 |           5689 |      13 | 0.22851116189136930900
+ 7875 |           6329 |      11 | 0.17380312845631221400
+ 7702 |           7120 |      35 | 0.49157303370786516900
+ 7662 |           7336 |      12 | 0.16357688113413304300
+ 7820 |           7461 |      19 | 0.25465755260688915700
+ 8515 |           7947 |      57 | 0.71725179312948282400
+ 7825 |           8910 |      21 | 0.23569023569023569000
+ 7821 |           9274 |      32 | 0.34505067931852490800
+ 8036 |           9548 |      37 | 0.38751571009635525800
+ 7860 |           9656 |      24 | 0.24855012427506213800
+ 8075 |           9735 |      20 | 0.20544427324088341000
+ 8060 |          10907 |      33 | 0.30255799028147061500
+ 7840 |          11437 |      36 | 0.31476785870420564800
+ 8833 |          13208 |      60 | 0.45427013930950938800
+ 7086 |          13637 |      91 | 0.66730219256434699700
+ 7930 |          13664 |     100 | 0.73185011709601873500
+ 7921 |          13720 |      72 | 0.52478134110787172000
+ 7722 |          14368 |     127 | 0.88390868596881959900
+ 7945 |          15129 |     122 | 0.80639830788551788000
+ 8323 |          15781 |      30 | 0.19010202141816108000
+ 7009 |          15900 |      78 | 0.49056603773584905700
+ 7936 |          15945 |      61 | 0.38256506741925368500
+ 8009 |          16418 |      35 | 0.21318065537824339100
+ 8048 |          16634 |      55 | 0.33064807021762654800
+ 7004 |          16682 |      57 | 0.34168564920273348500
+ 8865 |          17269 |      26 | 0.15055880479471886000
+ 7802 |          17389 |      20 | 0.11501523951923629900
+ 7005 |          17417 |      81 | 0.46506286961015100200
+ 7922 |          17844 |     144 | 0.80699394754539341000
+ 8518 |          17957 |      45 | 0.25059865233613632600
+ 7044 |          17990 |      86 | 0.47804335742078932700
+ 7663 |          18226 |      28 | 0.15362668715022495300
+ 8070 |          18473 |      21 | 0.11367942402425161000
+ 7424 |          18569 |      44 | 0.23695406322365232400
+ 8037 |          18734 |      52 | 0.27757019323155759600
+ 7440 |          21040 |      40 | 0.19011406844106463900
+ 8809 |          21081 |     109 | 0.51705327071770788900
+ 8051 |          21269 |      56 | 0.26329399595655649100
+ 7066 |          21562 |      61 | 0.28290511084314998600
+[7m--More--[27m
+[K     mun_name     | zip  | num_evs | total_personal | vehicle_id 
+------------------+------+---------+----------------+------------
+ Randolph         | 7869 |     179 |          35535 |          1
+ Wyckoff          | 7481 |     128 |          23221 |          2
+ Shrewsbury       | 7702 |      35 |           7120 |          3
+ Verona           | 7044 |      86 |          17990 |          4
+ Moorestown       | 8057 |     273 |          28912 |          5
+ Hammonton        | 8037 |      52 |          18734 |          6
+ Cherry Hill      | 8034 |     590 |          96269 |          7
+ Pennsauken       | 8110 |      60 |          41480 |          8
+ Barnegat         | 8005 |      51 |          30810 |          9
+ Stillwater       | 7875 |      11 |           6329 |         10
+ Andover          | 7821 |      32 |           9274 |         11
+ Montville        | 7045 |     216 |          31191 |         12
+ Mendham          | 7945 |     122 |          15129 |         13
+ Lebanon          | 8833 |      60 |          13208 |         14
+ Woodbridge       | 7095 |     304 |         116736 |         15
+ Mahwah           | 7495 |     173 |          33656 |         16
+ Riverside        | 8075 |      20 |           9735 |         17
+ Mine Hill        | 7803 |       7 |           4798 |         18
+ Mantua           | 8051 |      56 |          21269 |         19
+ Neptune          | 7753 |      63 |          35959 |         20
+ Nutley           | 7110 |      97 |          36563 |         21
+ Vernon           | 7462 |      79 |          34342 |         22
+ Princeton        | 8544 |     504 |          29878 |         23
+ Raritan          | 8869 |     183 |          42206 |         24
+ Toms River       | 8757 |     318 |         126419 |         25
+ Allamuchy        | 7820 |      19 |           7461 |         26
+ Hackettstown     | 7840 |      36 |          11437 |         27
+ Fairfield        | 7004 |      57 |          16682 |         28
+ North Bergen     | 7047 |     102 |          51584 |         29
+ Holmdel          | 7733 |     227 |          23691 |         30
+ Florence         | 8518 |      45 |          17957 |         31
+ Teaneck          | 7666 |     193 |          43700 |         32
+ Clark            | 7066 |      61 |          21562 |         33
+ Marlboro         | 7746 |     446 |          54479 |         34
+ Mount Holly      | 8060 |      33 |          10907 |         35
+ Rockaway         | 7866 |     114 |          44064 |         36
+ Piscataway       | 8854 |     305 |          60046 |         37
+ Maple Shade      | 8052 |      38 |          25102 |         38
+ Dover            | 7802 |      20 |          17389 |         39
+ Maplewood        | 7040 |     230 |          25865 |         40
+ Jackson          | 8527 |     210 |          78856 |         41
+ East Brunswick   | 8816 |     400 |          63817 |         42
+ Chatham          | 7928 |     211 |          24653 |         43
+ Hope             | 7844 |       8 |           3061 |         44
+ Pemberton        | 8068 |      67 |          39498 |         45
+ Washington       | 7882 |     375 |         125110 |         46
+ Kearny           | 7099 |      59 |          41126 |         47
+ Hopewell         | 8525 |     277 |          34687 |         48
+[7m--More--[27m
+[K     mun_name     | zip  | ghg_total | ghg_id | total_personal | num_evs 
+------------------+------+-----------+--------+----------------+---------
+ Vernon           | 7462 |  69988.44 |    371 |          34342 |      79
+ Lyndhurst        | 7071 |  69454.93 |    373 |          27963 |      47
+ Pequannock       | 7440 |  68651.78 |    375 |          21040 |      40
+ Sparta           | 7871 |  68149.03 |    377 |          27192 |     150
+ Readington       | 8870 |  66982.61 |    379 |          25455 |     112
+ Springfield      | 7081 |  66899.77 |    381 |          28787 |      86
+ Clark            | 7066 |  66606.68 |    383 |          21562 |      61
+ Maple Shade      | 8052 |   64767.3 |    385 |          25102 |      38
+ Harrison         | 7029 |  64452.44 |    387 |          30344 |     129
+ Berkeley Heights | 7922 |  64235.22 |    389 |          17844 |     144
+ Sparta           | 7871 |  64215.56 |    391 |          27192 |     150
+ Wyckoff          | 7481 |  64142.12 |    393 |          23221 |     128
+ Scotch Plains    | 7076 |  63133.91 |    395 |          32923 |     178
+ Maplewood        | 7040 |   62448.8 |    397 |          25865 |     230
+ Bedminster       | 7921 |  62328.73 |    399 |          13720 |      72
+ Raritan          | 8869 |  62123.75 |    401 |          42206 |     183
+ Bedminster       | 7921 |  61448.07 |    403 |          13720 |      72
+ Little Falls     | 7424 |  61014.39 |    405 |          18569 |      44
+ Dover            | 7802 |  59805.53 |    407 |          17389 |      20
+ Washington       | 7882 |  58390.89 |    411 |         125110 |     375
+ Washington       | 7882 |  58238.87 |    413 |         125110 |     375
+ Lumberton        | 8048 |  58217.16 |    415 |          16634 |      55
+ Rockaway         | 7866 |  57907.74 |    417 |          44064 |     114
+ Clinton          | 8809 |  57728.86 |    419 |          21081 |     109
+ Hillside         | 7205 |  57663.38 |    423 |          24359 |      33
+ Cranbury         | 8512 |  57023.17 |    425 |           5490 |      46
+ Colts Neck       | 7722 |  56732.79 |    427 |          14368 |     127
+ Mantua           | 8051 |  56662.24 |    429 |          21269 |      56
+ Hazlet           | 7730 |  54455.56 |    431 |          27809 |      61
+ Hackettstown     | 7840 |  54007.34 |    433 |          11437 |      36
+ Boonton          | 7005 |  53780.24 |    435 |          17417 |      81
+ Saddle Brook     | 7663 |  53558.64 |    439 |          18226 |      28
+ Maplewood        | 7040 |  53028.49 |    441 |          25865 |     230
+ Bordentown       | 8505 |  52291.06 |    443 |          21950 |      67
+ Pennsville       | 8070 |  51734.49 |    445 |          18473 |      21
+ Maple Shade      | 8052 |  51576.55 |    447 |          25102 |      38
+ Pennsville       | 8070 |  51249.18 |    449 |          18473 |      21
+ Mount Holly      | 8060 |  50889.94 |    451 |          10907 |      33
+ Barnegat         | 8005 |  50870.88 |    453 |          30810 |      51
+ Raritan          | 8869 |  50131.84 |    455 |          42206 |     183
+ Berkeley Heights | 7922 |  49415.06 |    457 |          17844 |     144
+ Hackettstown     | 7840 |  49284.39 |    459 |          11437 |      36
+ Cedar Grove      | 7009 |  49031.01 |    461 |          15900 |      78
+ Clinton          | 8809 |  48800.85 |    463 |          21081 |     109
+ Colts Neck       | 7722 |  48303.35 |    467 |          14368 |     127
+ Harrison         | 7029 |  48263.46 |    469 |          30344 |     129
+ Clark            | 7066 |  48160.28 |    471 |          21562 |      61
+ Weehawken        | 7086 |   47746.3 |    473 |          13637 |      91
+[7m--More--[27m
+[K    mun_name    | zip  | vmt_total | vmt_id | total_personal | num_evs 
+----------------+------+-----------+--------+----------------+---------
+ Union          | 7083 | 428576937 |     56 |          78595 |     148
+ Lakewood       | 8701 | 415483398 |     58 |          68502 |     427
+ Middletown     | 7748 | 455495249 |     75 |          92413 |     265
+ Middletown     | 7748 | 404542172 |     76 |          92413 |     265
+ Brick          | 8724 | 489756322 |     81 |         108521 |     219
+ Brick          | 8724 | 402526549 |     83 |         108521 |     219
+ Mount Laurel   | 8054 | 412606585 |     85 |          60358 |     254
+ Mount Laurel   | 8054 | 479226020 |     86 |          60358 |     254
+ Old Bridge     | 8857 | 429226308 |     87 |          87868 |     254
+ Old Bridge     | 8857 | 377812957 |     88 |          87868 |     254
+ East Brunswick | 8816 | 406672400 |     93 |          63817 |     400
+ East Brunswick | 8816 | 394972558 |     94 |          63817 |     400
+ Freehold       | 7728 | 427190968 |    103 |          57811 |     182
+ Freehold       | 7728 | 471652329 |    104 |          57811 |     182
+ Howell         | 7731 | 422482227 |    111 |          70553 |     196
+ Howell         | 7731 | 431677512 |    112 |          70553 |     196
+ North Bergen   | 7047 | 417953565 |    114 |          51584 |     102
+ Jackson        | 8527 | 460270907 |    131 |          78856 |     210
+ Jackson        | 8527 | 426046215 |    132 |          78856 |     210
+(19 rows)
+
+ mun_name | zip  | num_evs |       percentage       
+----------+------+---------+------------------------
+ Howell   | 7731 |     196 | 0.27780533783113404100
+(1 row)
+
+[?2004hCAB_database=# exit
+[?2004l
+]0;lion@roscoe:~/github-classroom/TCNJ-degoodj/cab-project-6/sql_files[?2004h[01;32m[lion@roscoe[01;37m sql_files[01;32m]$[00m exit
+[?2004l
+exit
+
+Script done on 2023-04-10 12:39:42-04:00 [COMMAND_EXIT_CODE="0"]

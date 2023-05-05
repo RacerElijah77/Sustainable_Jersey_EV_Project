@@ -1,0 +1,1131 @@
+Municipality,County,Year,Total_Personal_Vehicles,# of EVs,% of EVs
+Pine Valley,Camden,2020,13,1,16.67%
+Tavistock,Camden,2020,6,1,16.67%
+Walpack,Sussex,2020,8,1,12.50%
+Deal,Monmouth,2020,363,37,10.19%
+Cape May Point,Cape May,2020,135,7,5.19%
+Alpine,Bergen,2020,1095,56,5.11%
+Far Hills,Somerset,2020,727,36,4.95%
+Avalon,Cape May,2020,1311,54,4.12%
+Loch Arbour,Monmouth,2020,148,6,4.05%
+Allenhurst,Monmouth,2020,327,13,3.98%
+Stone Harbor,Cape May,2020,749,24,3.20%
+Millburn,Essex,2020,13020,414,3.18%
+Sea Bright,Monmouth,2020,1040,33,3.17%
+Pennington,Mercer,2020,1734,55,3.17%
+Mountain Lakes,Morris,2020,2977,90,3.02%
+Saddle River,Bergen,2020,2750,83,3.02%
+Demarest,Bergen,2020,3314,98,2.96%
+Princeton,Mercer,2020,15263,450,2.95%
+Tenafly,Bergen,2020,8661,241,2.78%
+West Windsor,Mercer,2020,18347,508,2.77%
+Monmouth Beach,Monmouth,2020,2539,69,2.72%
+Chester,Morris,2020,1040,27,2.60%
+Watchung,Somerset,2020,4082,105,2.57%
+Hopewell,Mercer,2020,1330,34,2.56%
+Andover,Sussex,2020,551,14,2.54%
+Englewood Cliffs,Bergen,2020,3861,98,2.54%
+Montgomery,Somerset,2020,15454,383,2.48%
+Essex Fells,Essex,2020,1496,37,2.47%
+Rocky Hill,Somerset,2020,434,10,2.30%
+Warren,Somerset,2020,11357,258,2.27%
+Sea Isle City,Cape May,2020,1741,39,2.24%
+South Orange Village,Essex,2020,7968,171,2.15%
+Upper Saddle River,Bergen,2020,5797,123,2.12%
+Teterboro,Bergen,2020,49,1,2.04%
+Wildwood,Cape May,2020,2382,48,2.02%
+Closter,Bergen,2020,5274,105,1.99%
+Glen Ridge,Essex,2020,4295,83,1.93%
+Sea Girt,Monmouth,2020,1350,26,1.93%
+West Wildwood,Cape May,2020,313,6,1.92%
+Livingston,Essex,2020,20000,382,1.91%
+Ridgewood,Bergen,2020,15805,291,1.84%
+Montclair,Essex,2020,21667,395,1.82%
+Franklin Lakes,Bergen,2020,8322,151,1.81%
+Ho-Ho-Kus,Bergen,2020,2826,50,1.77%
+North Wildwood,Cape May,2020,2724,47,1.73%
+South Brunswick,Middlesex,2020,29797,512,1.72%
+Cresskill,Bergen,2020,5531,95,1.72%
+Peapack and Gladstone,Somerset,2020,1751,30,1.71%
+Moorestown,Burlington,2020,14601,250,1.71%
+Barnegat Light,Ocean,2020,415,7,1.69%
+Plainsboro,Middlesex,2020,14771,249,1.69%
+Farmingdale,Monmouth,2020,900,15,1.67%
+Holmdel,Monmouth,2020,12341,202,1.64%
+Chatham,Morris,2020,5439,89,1.64%
+Cape May,Cape May,2020,1971,32,1.62%
+Hopewell,Mercer,2020,12631,205,1.62%
+Summit,Union,2020,13912,224,1.61%
+Rumson,Monmouth,2020,4605,74,1.61%
+Mendham,Morris,2020,3428,55,1.60%
+Bernards,Somerset,2020,18377,294,1.60%
+Bernardsville,Somerset,2020,5260,84,1.60%
+Maplewood,Essex,2020,13259,208,1.57%
+Wrightstown,Burlington,2020,384,6,1.56%
+Chatham,Morris,2020,6737,104,1.54%
+Colts Neck,Monmouth,2020,7212,111,1.54%
+Cranbury,Middlesex,2020,2797,43,1.54%
+Woodcliff Lake,Bergen,2020,4042,62,1.53%
+Monroe,Middlesex,2020,32072,491,1.53%
+Flemington,Hunterdon,2020,2617,40,1.53%
+Marlboro,Monmouth,2020,27464,414,1.51%
+Berkeley Heights,Union,2020,9120,134,1.47%
+Madison,Morris,2020,10100,147,1.46%
+Glen Rock,Bergen,2020,6767,98,1.45%
+Westwood,Bergen,2020,7258,105,1.45%
+Chesterfield,Burlington,2020,3766,53,1.41%
+Norwood,Bergen,2020,3698,52,1.41%
+Harding,Morris,2020,3210,45,1.40%
+Allendale,Bergen,2020,4321,60,1.39%
+Paramus,Bergen,2020,16692,231,1.38%
+Westfield,Union,2020,19514,268,1.37%
+Haddonfield,Camden,2020,7545,103,1.37%
+Edgewater,Bergen,2020,8018,108,1.35%
+Fair Haven,Monmouth,2020,3680,49,1.33%
+Allentown,Monmouth,2020,1361,18,1.32%
+Morristown,Morris,2020,12924,170,1.32%
+Haworth,Bergen,2020,2289,30,1.31%
+Clinton,Hunterdon,2020,1993,26,1.30%
+Robbinsville,Mercer,2020,9874,128,1.30%
+Spring Lake Heights,Monmouth,2020,3240,42,1.30%
+Roseland,Essex,2020,4219,54,1.28%
+Longport,Atlantic,2020,706,9,1.27%
+Montville,Morris,2020,16031,201,1.25%
+Lambertville,Hunterdon,2020,2880,36,1.25%
+Voorhees,Camden,2020,19384,241,1.24%
+Long Hill,Morris,2020,6223,77,1.24%
+Englishtown,Monmouth,2020,1223,15,1.23%
+Hillsborough,Somerset,2020,27697,337,1.22%
+Hightstown,Mercer,2020,3211,39,1.21%
+Mountainside,Union,2020,4870,59,1.21%
+Lakewood,Ocean,2020,34782,421,1.21%
+Mendham,Morris,2020,4408,53,1.20%
+Margate City,Atlantic,2020,4699,56,1.19%
+Jamesburg,Middlesex,2020,3806,45,1.18%
+Wood-Ridge,Bergen,2020,6009,71,1.18%
+Edison,Middlesex,2020,59239,690,1.16%
+Rockleigh,Bergen,2020,174,2,1.15%
+East Brunswick,Middlesex,2020,32528,373,1.15%
+New Providence,Union,2020,9004,103,1.14%
+West Cape May,Cape May,2020,789,9,1.14%
+Tewksbury,Hunterdon,2020,4419,50,1.13%
+Lebanon,Hunterdon,2020,1511,17,1.13%
+Wildwood Crest,Cape May,2020,2610,29,1.11%
+Ocean City,Cape May,2020,8012,89,1.11%
+Bay Head,Ocean,2020,811,9,1.11%
+Bridgewater,Somerset,2020,30647,340,1.11%
+Dunellen,Middlesex,2020,4071,45,1.11%
+East Amwell,Hunterdon,2020,3273,36,1.10%
+Lawrence,Mercer,2020,21566,237,1.10%
+Weehawken,Hudson,2020,7680,84,1.09%
+Florham Park,Morris,2020,7275,79,1.09%
+Morris Plains,Morris,2020,4540,49,1.08%
+Spring Lake,Monmouth,2020,2412,26,1.08%
+Cherry Hill,Camden,2020,49528,531,1.07%
+West Long Branch,Monmouth,2020,5048,54,1.07%
+Fort Lee,Bergen,2020,21713,231,1.06%
+Harrington Park,Bergen,2020,3575,38,1.06%
+Belmar,Monmouth,2020,3869,41,1.06%
+Denville,Morris,2020,12134,128,1.05%
+Mantoloking,Ocean,2020,381,4,1.05%
+Chester,Morris,2020,5986,62,1.04%
+Wyckoff,Bergen,2020,11582,119,1.03%
+Hoboken,Hudson,2020,20009,205,1.02%
+Morris,Morris,2020,16169,165,1.02%
+Swedesboro,Gloucester,2020,1570,16,1.02%
+River Vale,Bergen,2020,6916,70,1.01%
+Old Tappan,Bergen,2020,4064,41,1.01%
+Caldwell,Essex,2020,5256,53,1.01%
+Medford,Burlington,2020,17470,174,1.00%
+East Windsor,Mercer,2020,16571,165,1.00%
+Manasquan,Monmouth,2020,4509,44,0.98%
+Califon,Hunterdon,2020,923,9,0.98%
+Leonia,Bergen,2020,5551,54,0.97%
+Sparta,Sussex,2020,13629,132,0.97%
+Scotch Plains,Union,2020,16886,163,0.97%
+Point Pleasant Beach,Ocean,2020,3327,32,0.96%
+Montvale,Bergen,2020,5634,54,0.96%
+Randolph,Morris,2020,17731,169,0.95%
+Bedminster,Somerset,2020,6866,65,0.95%
+Metuchen,Middlesex,2020,8978,84,0.94%
+Piscataway,Middlesex,2020,29930,279,0.93%
+West Orange,Essex,2020,27309,254,0.93%
+Mahwah,Bergen,2020,17368,161,0.93%
+Boonton,Morris,2020,5615,52,0.93%
+River Edge,Bergen,2020,7587,70,0.92%
+Franklin,Hunterdon,2020,2825,26,0.92%
+Highland Park,Middlesex,2020,8593,79,0.92%
+Parsippany-Troy Hills,Morris,2020,34525,315,0.91%
+Brielle,Monmouth,2020,3293,30,0.91%
+Millstone,Somerset,2020,441,4,0.91%
+Manalapan,Monmouth,2020,27480,249,0.91%
+Secaucus,Hudson,2020,11820,107,0.91%
+Alpine,Bergen,2015,1185,11,0.90%
+Oradell,Bergen,2020,5657,51,0.90%
+Ship Bottom,Ocean,2020,888,8,0.90%
+Harrison,Gloucester,2020,8938,80,0.90%
+Franklin,Somerset,2020,42932,383,0.89%
+West Caldwell,Essex,2020,7859,70,0.89%
+Millstone,Monmouth,2020,8474,75,0.89%
+West Amwell,Hunterdon,2020,2373,21,0.88%
+Washington,Bergen,2020,6674,59,0.88%
+Verona,Essex,2020,9179,81,0.88%
+Mansfield,Burlington,2020,6595,58,0.88%
+Avon-by-the-Sea,Monmouth,2020,1365,12,0.88%
+Medford Lakes,Burlington,2020,2960,26,0.88%
+Beach Haven,Ocean,2020,797,7,0.88%
+Green Brook,Somerset,2020,4790,42,0.88%
+Little Silver,Monmouth,2020,4348,38,0.87%
+Cedar Grove,Essex,2020,8062,70,0.87%
+Somerville,Somerset,2020,7267,63,0.87%
+Elmer,Salem,2020,932,8,0.86%
+Asbury Park,Monmouth,2020,8588,73,0.85%
+Roosevelt,Monmouth,2020,589,5,0.85%
+North Brunswick,Middlesex,2020,24070,204,0.85%
+Clinton,Hunterdon,2020,8970,76,0.85%
+Long Beach,Ocean,2020,2486,21,0.84%
+Stockton,Hunterdon,2020,474,4,0.84%
+Butler,Morris,2020,5730,48,0.84%
+Englewood,Bergen,2020,16850,141,0.84%
+Bradley Beach,Monmouth,2020,2751,23,0.84%
+Fairfield,Essex,2020,5511,46,0.83%
+Jersey City,Hudson,2020,88454,737,0.83%
+Shrewsbury,Monmouth,2020,2800,23,0.82%
+Haddon,Camden,2020,9835,80,0.81%
+Glen Gardner,Hunterdon,2020,1230,10,0.81%
+Ramsey,Bergen,2020,10392,84,0.81%
+Red Bank,Monmouth,2020,7444,60,0.81%
+Linwood,Atlantic,2020,4982,40,0.80%
+Matawan,Monmouth,2020,5732,46,0.80%
+Eatontown,Monmouth,2020,8370,67,0.80%
+Raritan,Hunterdon,2020,16670,133,0.80%
+Upper Freehold,Monmouth,2020,5338,42,0.79%
+Ocean,Monmouth,2020,18626,146,0.78%
+Teaneck,Bergen,2020,22086,173,0.78%
+East Greenwich,Gloucester,2020,7796,61,0.78%
+Hasbrouck Heights,Bergen,2020,7190,56,0.78%
+Hanover,Morris,2020,10681,83,0.78%
+Harvey Cedars,Ocean,2020,388,3,0.77%
+Delaware,Hunterdon,2020,3752,29,0.77%
+Union,Hunterdon,2020,3365,26,0.77%
+South Harrison,Gloucester,2020,2215,17,0.77%
+North Caldwell,Essex,2020,4827,37,0.77%
+Readington,Hunterdon,2020,12780,97,0.76%
+Boonton,Morris,2020,3046,23,0.76%
+Park Ridge,Bergen,2020,6357,48,0.76%
+Lake Como,Monmouth,2020,1336,10,0.75%
+Mount Laurel,Burlington,2020,30924,228,0.74%
+Washington,Morris,2020,13124,96,0.73%
+East Hanover,Morris,2020,8079,59,0.73%
+Fanwood,Union,2020,5232,38,0.73%
+Collingswood,Camden,2020,9239,67,0.73%
+Frenchtown,Hunterdon,2020,966,7,0.72%
+Milltown,Middlesex,2020,4894,35,0.72%
+Cranford,Union,2020,16659,119,0.71%
+Sea Bright,Monmouth,2015,1108,8,0.71%
+Seaside Park,Ocean,2020,1563,11,0.70%
+Northvale,Bergen,2020,3434,24,0.70%
+Island Heights,Ocean,2020,1289,9,0.70%
+Hainesport,Burlington,2020,4882,34,0.70%
+Long Branch,Monmouth,2020,18358,127,0.69%
+Palisades Park,Bergen,2020,10493,72,0.69%
+Bordentown,Burlington,2020,2779,19,0.68%
+Lebanon,Hunterdon,2020,5122,35,0.68%
+Freehold,Monmouth,2020,5562,38,0.68%
+Elk,Gloucester,2020,2789,19,0.68%
+Atlantic Highlands,Monmouth,2020,3110,21,0.68%
+Oakland,Bergen,2020,8908,59,0.66%
+Hillsdale,Bergen,2020,7288,48,0.66%
+South Bound Brook,Somerset,2020,2891,19,0.66%
+Ringwood,Passaic,2020,8988,59,0.66%
+Fair Lawn,Bergen,2020,21243,139,0.65%
+Wayne,Passaic,2020,35517,232,0.65%
+Oldmans,Salem,2020,1229,8,0.65%
+Cinnaminson,Burlington,2020,11917,77,0.65%
+Southampton,Burlington,2020,7800,50,0.64%
+Woodlynne,Camden,2020,1093,7,0.64%
+Woolwich,Gloucester,2020,7964,51,0.64%
+Rutherford,Bergen,2020,10961,70,0.64%
+Shrewsbury,Monmouth,2020,942,6,0.64%
+Kingwood,Hunterdon,2020,3142,20,0.64%
+Woodstown,Salem,2020,2362,15,0.64%
+Port Republic,Atlantic,2020,1104,7,0.63%
+Raritan,Somerset,2020,5228,33,0.63%
+Riverton,Burlington,2020,1913,12,0.63%
+Kinnelon,Morris,2020,7682,48,0.62%
+Evesham,Burlington,2020,33027,204,0.62%
+Hampton,Hunterdon,2020,973,6,0.62%
+Totowa,Passaic,2020,7197,44,0.61%
+West New York,Hudson,2020,15432,94,0.61%
+Interlaken,Monmouth,2020,657,4,0.61%
+Wall,Monmouth,2020,19821,119,0.60%
+Egg Harbor City,Atlantic,2020,2041,12,0.59%
+Helmetta,Middlesex,2020,1713,10,0.58%
+Springfield,Union,2020,12027,70,0.58%
+Lower,Cape May,2020,16172,94,0.58%
+Hackettstown,Warren,2020,5730,33,0.58%
+Rockaway,Morris,2020,4342,25,0.58%
+Lumberton,Burlington,2020,8516,49,0.58%
+Burlington,Burlington,2020,6107,35,0.57%
+Branchburg,Somerset,2020,11119,63,0.57%
+Midland Park,Bergen,2020,5123,29,0.57%
+Merchantville,Camden,2020,2120,12,0.57%
+Logan,Gloucester,2020,4075,23,0.56%
+Bloomsbury,Hunterdon,2020,709,4,0.56%
+Bogota,Bergen,2020,4792,27,0.56%
+Emerson,Bergen,2020,5155,29,0.56%
+Seaside Heights,Ocean,2020,1432,8,0.56%
+Pilesgrove,Salem,2020,3084,17,0.55%
+Surf City,Ocean,2020,1094,6,0.55%
+Bloomfield,Essex,2020,28742,156,0.54%
+Freehold,Monmouth,2020,23664,128,0.54%
+Ridgefield Park,Bergen,2020,7146,38,0.53%
+New Milford,Bergen,2020,10211,54,0.53%
+Woodland Park,Passaic,2020,7975,42,0.53%
+Far Hills,Somerset,2015,800,4,0.53%
+Tinton Falls,Monmouth,2020,12388,65,0.52%
+Barrington,Camden,2020,4958,26,0.52%
+Eagleswood,Ocean,2020,1148,6,0.52%
+Hardwick,Warren,2020,1152,6,0.52%
+Old Bridge,Middlesex,2020,44998,234,0.52%
+Brigantine,Atlantic,2020,6590,34,0.52%
+Mount Olive,Morris,2020,19819,102,0.51%
+Gibbsboro,Camden,2020,1557,8,0.51%
+Ventnor City,Atlantic,2020,6068,31,0.51%
+Point Pleasant,Ocean,2020,14322,73,0.51%
+Haddon Heights,Camden,2020,5504,28,0.51%
+South Plainfield,Middlesex,2020,16529,84,0.51%
+Bethlehem,Hunterdon,2020,3349,17,0.51%
+Egg Harbor,Atlantic,2020,28220,142,0.50%
+Wenonah,Gloucester,2020,1593,8,0.50%
+Mount Holly,Burlington,2020,5580,28,0.50%
+Middletown,Monmouth,2020,46745,233,0.50%
+Harrison,Hudson,2020,7223,36,0.50%
+Sussex,Sussex,2020,1204,6,0.50%
+Oceanport,Monmouth,2020,4623,23,0.50%
+Howell,Monmouth,2020,35755,177,0.50%
+Clark,Union,2020,11316,56,0.49%
+Mansfield,Warren,2020,4903,24,0.49%
+East Newark,Hudson,2020,819,4,0.49%
+Sayreville,Middlesex,2020,29313,143,0.49%
+Pitman,Gloucester,2020,5955,29,0.49%
+Franklin,Warren,2020,2471,12,0.49%
+High Bridge,Hunterdon,2020,2680,13,0.49%
+Nutley,Essex,2020,18561,90,0.48%
+Mantua,Gloucester,2020,10543,51,0.48%
+Moonachie,Bergen,2020,1461,7,0.48%
+Watchung,Somerset,2015,4166,20,0.47%
+Hamburg,Sussex,2020,2337,11,0.47%
+New Hanover,Burlington,2020,1913,9,0.47%
+Woodbridge,Middlesex,2020,59139,278,0.47%
+Keyport,Monmouth,2020,4682,22,0.47%
+Jackson,Ocean,2020,40229,189,0.47%
+Greenwich,Warren,2020,3867,18,0.47%
+East Rutherford,Bergen,2020,6252,29,0.46%
+Alexandria,Hunterdon,2020,4097,19,0.46%
+Bergenfield,Bergen,2020,15318,71,0.46%
+Hammonton,Atlantic,2020,9278,43,0.46%
+Woodland,Burlington,2020,1295,6,0.46%
+Oaklyn,Camden,2020,2819,13,0.46%
+Highlands,Monmouth,2020,3713,17,0.46%
+Middle,Cape May,2020,13110,60,0.46%
+Newfield,Gloucester,2020,1093,5,0.46%
+Frankford,Sussex,2020,4193,19,0.45%
+Frelinghuysen,Warren,2020,1552,7,0.45%
+Maywood,Bergen,2020,6228,28,0.45%
+Hopewell,Mercer,2015,1424,6,0.45%
+Toms River,Ocean,2020,64822,291,0.45%
+Aberdeen,Monmouth,2020,14375,64,0.45%
+Florence,Burlington,2020,9006,40,0.44%
+North Hanover,Burlington,2020,4970,22,0.44%
+Spotswood,Middlesex,2020,5654,25,0.44%
+Prospect Park,Passaic,2020,2489,11,0.44%
+Hope,Warren,2020,1590,7,0.44%
+Upper Pittsgrove,Salem,2020,2506,11,0.44%
+Salem,Salem,2020,2056,9,0.44%
+Pemberton,Burlington,2020,1150,5,0.43%
+Folsom,Atlantic,2020,1150,5,0.43%
+Allamuchy,Warren,2020,3912,17,0.43%
+Pompton Lakes,Passaic,2020,7385,32,0.43%
+Waldwick,Bergen,2020,6463,28,0.43%
+Shamong,Burlington,2020,4859,21,0.43%
+Stafford,Ocean,2020,20829,90,0.43%
+Riverdale,Morris,2020,3258,14,0.43%
+Hamilton,Mercer,2020,60294,256,0.42%
+Green,Sussex,2020,2592,11,0.42%
+Bound Brook,Somerset,2020,5656,24,0.42%
+Washington,Gloucester,2020,33559,142,0.42%
+Winslow,Camden,2020,24874,105,0.42%
+South Hackensack,Bergen,2020,1424,6,0.42%
+Carlstadt,Bergen,2020,4047,17,0.42%
+Garwood,Union,2020,2860,12,0.42%
+Wharton,Morris,2020,4081,17,0.42%
+Bordentown,Burlington,2020,8691,36,0.41%
+Blairstown,Warren,2020,4599,19,0.41%
+Rockaway,Morris,2020,18459,76,0.41%
+Byram,Sussex,2020,6326,26,0.41%
+Springfield,Burlington,2020,2677,11,0.41%
+South Amboy,Middlesex,2020,5605,23,0.41%
+Hawthorne,Passaic,2020,12681,52,0.41%
+Little Falls,Passaic,2020,9770,40,0.41%
+Upper,Cape May,2020,9527,39,0.41%
+Dumont,Bergen,2020,11788,48,0.41%
+Cliffside Park,Bergen,2020,14008,57,0.41%
+Dennis,Cape May,2020,4928,20,0.41%
+Berlin,Camden,2020,4957,20,0.40%
+Clifton,Passaic,2020,49029,197,0.40%
+Palmyra,Burlington,2020,4736,19,0.40%
+Washington,Burlington,2020,499,2,0.40%
+Woodbury,Gloucester,2020,5994,24,0.40%
+Andover,Sussex,2015,525,2,0.40%
+Milford,Hunterdon,2020,1011,4,0.40%
+Sandyston,Sussex,2020,1519,6,0.39%
+Newton,Sussex,2020,5360,21,0.39%
+Guttenberg,Hudson,2020,4619,18,0.39%
+Ridgefield,Bergen,2020,6673,26,0.39%
+Wanaque,Passaic,2020,8215,32,0.39%
+Hi-Nella,Camden,2020,778,3,0.39%
+Vernon,Sussex,2020,17451,67,0.38%
+Hackensack,Bergen,2020,23567,90,0.38%
+Bloomingdale,Passaic,2020,5248,20,0.38%
+Burlington,Burlington,2020,15220,58,0.38%
+Bass River,Burlington,2020,1051,4,0.38%
+Haledon,Passaic,2020,4477,17,0.38%
+Audubon Park,Camden,2020,792,3,0.38%
+Knowlton,Warren,2020,2377,9,0.38%
+Hazlet,Monmouth,2020,14045,53,0.38%
+Deptford,Gloucester,2020,20479,77,0.38%
+Rumson,Monmouth,2015,4817,18,0.38%
+Tabernacle,Burlington,2020,6157,23,0.37%
+Absecon,Atlantic,2020,5392,20,0.37%
+Roxbury,Morris,2020,17015,63,0.37%
+Princeton,Mercer,2015,14615,54,0.37%
+Mount Ephraim,Camden,2020,3523,13,0.37%
+Shiloh,Cumberland,2020,271,1,0.37%
+Wallington,Bergen,2020,7339,27,0.37%
+Lafayette,Sussex,2020,1631,6,0.37%
+Plainfield,Union,2020,22027,81,0.37%
+Franklin,Gloucester,2020,12255,45,0.37%
+Holland,Hunterdon,2020,4091,15,0.37%
+Washington,Warren,2020,4638,17,0.37%
+Montague,Sussex,2020,3008,11,0.37%
+Rahway,Union,2020,17502,64,0.37%
+Mullica,Atlantic,2020,4112,15,0.36%
+Tuckerton,Ocean,2020,2475,9,0.36%
+North Bergen,Hudson,2020,25912,94,0.36%
+Jefferson,Morris,2020,15765,57,0.36%
+Pequannock,Morris,2020,10526,38,0.36%
+Hardyston,Sussex,2020,6098,22,0.36%
+Audubon,Camden,2020,5875,21,0.36%
+Fieldsboro,Burlington,2020,562,2,0.36%
+New Brunswick,Middlesex,2020,17457,62,0.36%
+Hampton,Sussex,2020,3680,13,0.35%
+South River,Middlesex,2020,9404,33,0.35%
+Riverside,Burlington,2020,4848,17,0.35%
+Beachwood,Ocean,2020,8002,28,0.35%
+Hopatcong,Sussex,2020,11159,39,0.35%
+Woodbine,Cape May,2020,1431,5,0.35%
+Kenilworth,Union,2020,5182,18,0.35%
+Buena Vista,Atlantic,2020,5471,19,0.35%
+Independence,Warren,2020,4616,16,0.35%
+Westampton,Burlington,2020,6395,22,0.34%
+Chesilhurst,Camden,2020,874,3,0.34%
+Somerdale,Camden,2020,3798,13,0.34%
+Peapack and Gladstone,Somerset,2015,1787,6,0.34%
+Lincoln Park,Morris,2020,7325,25,0.34%
+North Haledon,Passaic,2020,5594,19,0.34%
+Northfield,Atlantic,2020,5601,19,0.34%
+Winfield,Union,2020,1181,4,0.34%
+West Milford,Passaic,2020,19828,67,0.34%
+Farmingdale,Monmouth,2015,1009,3,0.34%
+Chester,Morris,2015,981,3,0.34%
+Lavallette,Ocean,2020,1785,6,0.34%
+Eastampton,Burlington,2020,4486,15,0.33%
+Plumsted,Ocean,2020,6902,23,0.33%
+Mount Arlington,Morris,2020,4219,14,0.33%
+Neptune City,Monmouth,2020,3334,11,0.33%
+Lakehurst,Ocean,2020,1819,6,0.33%
+Andover,Sussex,2020,4252,14,0.33%
+Brick,Ocean,2020,55314,181,0.33%
+Delanco,Burlington,2020,3377,11,0.33%
+Ewing,Mercer,2020,22138,72,0.33%
+North Arlington,Bergen,2020,10464,34,0.32%
+Lawrence,Cumberland,2020,2164,7,0.32%
+Saddle River,Bergen,2015,2487,8,0.32%
+Delran,Burlington,2020,11504,37,0.32%
+Monroe,Gloucester,2020,25618,82,0.32%
+Wantage,Sussex,2020,8443,27,0.32%
+Berlin,Camden,2020,3773,12,0.32%
+Fredon,Sussex,2020,2516,8,0.32%
+Penns Grove,Salem,2020,2209,7,0.32%
+Bellmawr,Camden,2020,6953,22,0.32%
+Magnolia,Camden,2020,2846,9,0.32%
+Lawnside,Camden,2020,1906,6,0.31%
+Berkeley,Ocean,2020,31161,98,0.31%
+Galloway,Atlantic,2020,23127,72,0.31%
+Stillwater,Sussex,2020,3216,10,0.31%
+Union Beach,Monmouth,2020,3875,12,0.31%
+Pennington,Mercer,2015,1779,6,0.31%
+Gloucester,Camden,2020,40581,125,0.31%
+Clayton,Gloucester,2020,5853,18,0.31%
+Saddle Brook,Bergen,2020,8792,27,0.31%
+Neptune,Monmouth,2020,18577,57,0.31%
+Little Ferry,Bergen,2020,6873,21,0.31%
+Hamilton,Atlantic,2020,16747,51,0.30%
+West Deptford,Gloucester,2020,14484,44,0.30%
+Lodi,Bergen,2020,13523,41,0.30%
+Deerfield,Cumberland,2020,1983,6,0.30%
+Roselle Park,Union,2020,8612,26,0.30%
+Clementon,Camden,2020,3041,9,0.30%
+West Windsor,Mercer,2015,17832,53,0.30%
+Bayonne,Hudson,2020,30135,89,0.30%
+Union,Union,2020,37148,109,0.29%
+Mannington,Salem,2020,1026,3,0.29%
+Fairview,Bergen,2020,6520,19,0.29%
+Glassboro,Gloucester,2020,11346,33,0.29%
+Stanhope,Sussex,2020,2409,7,0.29%
+Elmwood Park,Bergen,2020,11719,34,0.29%
+Ocean Gate,Ocean,2020,1037,3,0.29%
+Rochelle Park,Bergen,2020,3811,11,0.29%
+Lacey,Ocean,2020,22629,65,0.29%
+Linden,Union,2020,24492,70,0.29%
+Washington,Warren,2020,5262,15,0.29%
+Lyndhurst,Bergen,2020,15267,43,0.28%
+Elsinboro,Salem,2020,711,2,0.28%
+Pine Beach,Ocean,2020,1788,5,0.28%
+Barnegat,Ocean,2020,16490,46,0.28%
+Lindenwold,Camden,2020,9753,27,0.28%
+Mine Hill,Morris,2020,2549,7,0.27%
+Little Egg Harbor,Ocean,2020,15732,43,0.27%
+Vineland,Cumberland,2020,37321,102,0.27%
+Bridgeton,Cumberland,2020,7756,21,0.27%
+Warren,Somerset,2015,10844,29,0.27%
+North Plainfield,Somerset,2020,13007,35,0.27%
+Pittsgrove,Salem,2020,6765,18,0.27%
+Manville,Somerset,2020,6812,18,0.26%
+Maple Shade,Burlington,2020,12503,33,0.26%
+Pemberton,Burlington,2020,18963,50,0.26%
+Woodbury Heights,Gloucester,2020,2285,6,0.26%
+Lopatcong,Warren,2020,6098,16,0.26%
+Union City,Hudson,2020,20593,54,0.26%
+Branchville,Sussex,2020,766,2,0.26%
+Ho-Ho-Kus,Bergen,2015,2735,7,0.26%
+Englewood Cliffs,Bergen,2015,3556,9,0.25%
+Alloway,Salem,2020,2766,7,0.25%
+Middlesex,Middlesex,2020,9146,23,0.25%
+South Orange Village,Essex,2015,8398,21,0.25%
+Kearny,Hudson,2020,20519,51,0.25%
+Pennsauken,Camden,2020,20601,51,0.25%
+Summit,Union,2015,13018,32,0.25%
+Phillipsburg,Warren,2020,8960,22,0.25%
+Stow Creek,Cumberland,2020,815,2,0.25%
+Brooklawn,Camden,2020,1226,3,0.24%
+Garfield,Bergen,2020,18049,44,0.24%
+Belleville,Essex,2020,21413,52,0.24%
+Greenwich,Cumberland,2020,413,1,0.24%
+Belvidere,Warren,2020,1661,4,0.24%
+Pine Hill,Camden,2020,7069,17,0.24%
+Atlantic City,Atlantic,2020,13353,32,0.24%
+Estell Manor,Atlantic,2020,1254,3,0.24%
+Mendham,Morris,2015,3191,8,0.24%
+Commercial,Cumberland,2020,2953,7,0.24%
+Montgomery,Somerset,2015,14935,35,0.24%
+Laurel Springs,Camden,2020,1275,3,0.24%
+White,Warren,2020,3418,8,0.23%
+Downe,Cumberland,2020,858,2,0.23%
+Victory Gardens,Morris,2020,867,2,0.23%
+Alpha,Warren,2020,1741,4,0.23%
+Millville,Cumberland,2020,18722,43,0.23%
+Manchester,Ocean,2020,31152,71,0.23%
+Runnemede,Camden,2020,5272,12,0.23%
+Rocky Hill,Somerset,2015,440,1,0.23%
+Franklin,Sussex,2020,3564,8,0.22%
+Hillside,Union,2020,12545,28,0.22%
+Holmdel,Monmouth,2015,11350,25,0.22%
+Colts Neck,Monmouth,2015,7156,16,0.22%
+Pohatcong,Warren,2020,2740,6,0.22%
+Trenton,Mercer,2020,31840,69,0.22%
+Liberty,Warren,2020,2313,5,0.22%
+Carteret,Middlesex,2020,13471,29,0.22%
+Upper Saddle River,Bergen,2015,5537,12,0.21%
+Demarest,Bergen,2015,3352,7,0.21%
+Waterford,Camden,2020,7941,17,0.21%
+Ocean,Ocean,2020,7047,15,0.21%
+Somers Point,Atlantic,2020,6648,14,0.21%
+Netcong,Morris,2020,2389,5,0.21%
+Millburn,Essex,2015,12477,26,0.21%
+Perth Amboy,Middlesex,2020,21105,44,0.21%
+Dover,Morris,2020,9152,19,0.21%
+Beverly,Burlington,2020,1449,3,0.21%
+Carneys Point,Salem,2020,4844,10,0.21%
+Passaic,Passaic,2020,20386,42,0.21%
+Gloucester City,Camden,2020,6325,13,0.21%
+Oxford,Warren,2020,1957,4,0.20%
+Weymouth,Atlantic,2020,2456,5,0.20%
+City of Orange,Essex,2020,11311,23,0.20%
+Willingboro,Burlington,2020,20513,41,0.20%
+Morristown,Morris,2015,10434,21,0.20%
+Hopewell,Mercer,2015,13216,26,0.20%
+Lawrence,Mercer,2015,21570,43,0.20%
+Mountain Lakes,Morris,2015,2997,6,0.20%
+Westville,Gloucester,2020,2545,5,0.20%
+Stratford,Camden,2020,4584,9,0.20%
+Tenafly,Bergen,2015,8787,17,0.19%
+Fairfield,Cumberland,2020,3215,6,0.19%
+Shrewsbury,Monmouth,2015,2685,5,0.19%
+Upper Deerfield,Cumberland,2020,4844,9,0.19%
+Flemington,Hunterdon,2015,2383,4,0.18%
+Corbin City,Atlantic,2020,543,1,0.18%
+Montclair,Essex,2015,21455,39,0.18%
+Roselle,Union,2020,11487,21,0.18%
+Harmony,Warren,2020,2198,4,0.18%
+Edgewater Park,Burlington,2020,5568,10,0.18%
+Palmyra,Burlington,2015,5046,9,0.18%
+Pennsville,Salem,2020,9086,16,0.18%
+Maplewood,Essex,2015,12606,22,0.17%
+Haddonfield,Camden,2015,7803,13,0.17%
+Greenwich,Gloucester,2020,3494,6,0.17%
+Keansburg,Monmouth,2020,5860,10,0.17%
+Millstone,Monmouth,2015,7600,13,0.17%
+Buena,Atlantic,2020,2957,5,0.17%
+Hopewell,Cumberland,2020,2983,5,0.17%
+South Brunswick,Middlesex,2015,29344,49,0.17%
+Island Heights,Ocean,2015,1273,2,0.16%
+Elizabeth,Union,2020,51731,85,0.16%
+Livingston,Essex,2015,19288,32,0.16%
+Bernards,Somerset,2015,17670,29,0.16%
+Moorestown,Burlington,2015,14311,23,0.16%
+Bordentown,Burlington,2015,2583,4,0.16%
+Lebanon,Hunterdon,2015,1347,2,0.16%
+Califon,Hunterdon,2015,834,1,0.16%
+Westwood,Bergen,2015,6877,11,0.16%
+Lambertville,Hunterdon,2015,3160,5,0.16%
+Stone Harbor,Cape May,2015,648,1,0.15%
+Chatham,Morris,2015,5456,8,0.15%
+Madison,Morris,2015,9726,15,0.15%
+Franklin,Hunterdon,2015,2612,4,0.15%
+Newark,Essex,2020,92490,141,0.15%
+Ridgewood,Bergen,2015,15735,24,0.15%
+Loch Arbour,Monmouth,2015,132,0,0.15%
+Oradell,Bergen,2015,5314,8,0.15%
+Quinton,Salem,2020,2002,3,0.15%
+Mountainside,Union,2015,4626,7,0.15%
+Mendham,Morris,2015,4102,6,0.15%
+Glen Gardner,Hunterdon,2015,1231,2,0.15%
+West Long Branch,Monmouth,2015,4810,7,0.15%
+Bay Head,Ocean,2015,756,1,0.15%
+Woodcliff Lake,Bergen,2015,4213,6,0.14%
+Highland Park,Middlesex,2015,7642,11,0.14%
+Voorhees,Camden,2015,18068,26,0.14%
+Chatham,Morris,2015,7021,10,0.14%
+Lower Alloways Creek,Salem,2020,1391,2,0.14%
+Monroe,Middlesex,2015,28818,41,0.14%
+South Toms River,Ocean,2020,2154,3,0.14%
+Plainsboro,Middlesex,2015,15022,21,0.14%
+Medford,Burlington,2015,16389,23,0.14%
+Paterson,Passaic,2020,48712,67,0.14%
+Paulsboro,Gloucester,2020,3650,5,0.14%
+Leonia,Bergen,2015,5103,7,0.14%
+Red Bank,Monmouth,2015,6466,9,0.13%
+Chester,Morris,2015,5657,8,0.13%
+Sea Girt,Monmouth,2015,1349,2,0.13%
+Harding,Morris,2015,3074,4,0.13%
+Sparta,Sussex,2015,13563,18,0.13%
+Englewood,Bergen,2015,15117,20,0.13%
+East Amwell,Hunterdon,2015,3185,4,0.13%
+Port Republic,Atlantic,2015,759,1,0.13%
+Hanover,Morris,2015,10005,13,0.13%
+Closter,Bergen,2015,5277,7,0.13%
+Midland Park,Bergen,2015,4594,6,0.13%
+Long Hill,Morris,2015,6215,8,0.13%
+Edgewater,Bergen,2015,7021,9,0.13%
+Secaucus,Hudson,2015,10098,13,0.13%
+Franklin Lakes,Bergen,2015,8589,11,0.13%
+Magnolia,Camden,2015,2658,3,0.13%
+Morris Plains,Morris,2015,3833,5,0.13%
+Hightstown,Mercer,2015,3442,4,0.13%
+Fanwood,Union,2015,4701,6,0.13%
+Frenchtown,Hunterdon,2015,1101,1,0.13%
+Morris,Morris,2015,15584,20,0.13%
+Point Pleasant Beach,Ocean,2015,3324,4,0.13%
+Cherry Hill,Camden,2015,46741,59,0.13%
+Asbury Park,Monmouth,2015,6681,8,0.13%
+Milltown,Middlesex,2015,4955,6,0.13%
+Lakehurst,Ocean,2015,1524,2,0.12%
+Tewksbury,Hunterdon,2015,4920,6,0.12%
+Essex Fells,Essex,2015,1633,2,0.12%
+Longport,Atlantic,2015,735,1,0.12%
+Ramsey,Bergen,2015,10570,13,0.12%
+Rockleigh,Bergen,2015,164,0,0.12%
+Hi-Nella,Camden,2015,498,1,0.12%
+Northvale,Bergen,2015,3156,4,0.12%
+Elk,Gloucester,2015,2824,3,0.12%
+Mansfield,Burlington,2015,6424,8,0.12%
+Berkeley Heights,Union,2015,8724,10,0.12%
+Monmouth Beach,Monmouth,2015,2518,3,0.12%
+Westfield,Union,2015,19416,23,0.12%
+Marlboro,Monmouth,2015,27015,32,0.12%
+Haddon,Camden,2015,9557,11,0.12%
+Robbinsville,Mercer,2015,9667,11,0.12%
+Weehawken,Hudson,2015,5957,7,0.12%
+Ridgefield Park,Bergen,2015,6817,8,0.12%
+Fair Haven,Monmouth,2015,4176,5,0.12%
+West Amwell,Hunterdon,2015,2305,3,0.12%
+Collingswood,Camden,2015,8635,10,0.12%
+Spring Lake Heights,Monmouth,2015,3506,4,0.12%
+Lebanon,Hunterdon,2015,5228,6,0.12%
+Allenhurst,Monmouth,2015,343,0,0.12%
+Cranbury,Middlesex,2015,2693,3,0.12%
+Newfield,Gloucester,2015,1132,1,0.11%
+Wood-Ridge,Bergen,2015,5230,6,0.11%
+Stockton,Hunterdon,2015,436,1,0.11%
+Elmer,Salem,2015,960,1,0.11%
+Readington,Hunterdon,2015,12675,15,0.11%
+Florham Park,Morris,2015,7100,8,0.11%
+Spring Lake,Monmouth,2015,2218,3,0.11%
+Hillsborough,Somerset,2015,26430,30,0.11%
+Delaware,Hunterdon,2015,3847,4,0.11%
+Allentown,Monmouth,2015,1344,2,0.11%
+Harrison,Gloucester,2015,8453,9,0.11%
+Cresskill,Bergen,2015,5602,6,0.11%
+Barrington,Camden,2015,4520,5,0.11%
+Englishtown,Monmouth,2015,1271,1,0.11%
+South Bound Brook,Somerset,2015,2634,3,0.11%
+Frankford,Sussex,2015,4182,5,0.11%
+Southampton,Burlington,2015,7735,9,0.11%
+Kingwood,Hunterdon,2015,3006,3,0.11%
+River Vale,Bergen,2015,6607,7,0.11%
+Somerville,Somerset,2015,7081,8,0.11%
+Medford Lakes,Burlington,2015,3042,3,0.11%
+Maurice River,Cumberland,2020,1850,2,0.11%
+Clinton,Hunterdon,2015,1671,2,0.11%
+Jamesburg,Middlesex,2015,3463,4,0.11%
+Mantoloking,Ocean,2015,286,0,0.10%
+Glen Rock,Bergen,2015,7742,8,0.10%
+Cedar Grove,Essex,2015,7838,8,0.10%
+Belmar,Monmouth,2015,4112,4,0.10%
+Ship Bottom,Ocean,2015,766,1,0.10%
+Alexandria,Hunterdon,2015,3646,4,0.10%
+Woodbine,Cape May,2015,1159,1,0.10%
+Bloomsbury,Hunterdon,2015,583,1,0.10%
+Franklin,Somerset,2015,40227,41,0.10%
+Woodlynne,Camden,2015,1086,1,0.10%
+Burlington,Burlington,2015,6132,6,0.10%
+Denville,Morris,2015,12274,12,0.10%
+Bedminster,Somerset,2015,6854,7,0.10%
+East Orange,Essex,2020,23862,24,0.10%
+Montville,Morris,2015,15160,15,0.10%
+Bordentown,Burlington,2015,7897,8,0.10%
+Bernardsville,Somerset,2015,5405,5,0.10%
+Old Tappan,Bergen,2015,4104,4,0.10%
+Beach Haven,Ocean,2015,802,1,0.10%
+Upper,Cape May,2015,9243,9,0.10%
+Wrightstown,Burlington,2015,404,0,0.10%
+Franklin,Sussex,2015,3435,3,0.10%
+East Windsor,Mercer,2015,16438,16,0.10%
+Cape May,Cape May,2015,1855,2,0.10%
+Cinnaminson,Burlington,2015,11661,11,0.10%
+Washington,Morris,2015,13313,13,0.10%
+Metuchen,Middlesex,2015,8704,8,0.10%
+National Park,Gloucester,2020,2076,2,0.10%
+Harrington Park,Bergen,2015,3117,3,0.10%
+Chesterfield,Burlington,2015,4181,4,0.10%
+Millstone,Somerset,2015,314,0,0.10%
+Lake Como,Monmouth,2015,1054,1,0.09%
+Branchburg,Somerset,2015,10341,10,0.09%
+Sussex,Sussex,2015,1161,1,0.09%
+Irvington,Essex,2020,22268,21,0.09%
+Scotch Plains,Union,2015,16037,15,0.09%
+Bloomingdale,Passaic,2015,5322,5,0.09%
+Bethlehem,Hunterdon,2015,3091,3,0.09%
+Upper Pittsgrove,Salem,2015,2457,2,0.09%
+Montvale,Bergen,2015,5358,5,0.09%
+Roseland,Essex,2015,4296,4,0.09%
+Fort Lee,Bergen,2015,21598,20,0.09%
+Long Beach,Ocean,2015,2591,2,0.09%
+Fieldsboro,Burlington,2015,432,0,0.09%
+Washington,Bergen,2015,6483,6,0.09%
+Teaneck,Bergen,2015,21614,20,0.09%
+Milford,Hunterdon,2015,865,1,0.09%
+Sandyston,Sussex,2015,1519,1,0.09%
+Union,Hunterdon,2015,3838,4,0.09%
+Hammonton,Atlantic,2015,9456,9,0.09%
+Franklin,Warren,2015,2424,2,0.09%
+Riverdale,Morris,2015,3326,3,0.09%
+Mount Holly,Burlington,2015,5327,5,0.09%
+Raritan,Hunterdon,2015,15877,14,0.09%
+Paramus,Bergen,2015,16641,15,0.09%
+Bloomfield,Essex,2015,26640,24,0.09%
+Haworth,Bergen,2015,2358,2,0.09%
+Middle,Cape May,2015,12138,11,0.09%
+Egg Harbor City,Atlantic,2015,2365,2,0.09%
+Merchantville,Camden,2015,2262,2,0.09%
+Mount Laurel,Burlington,2015,29434,26,0.09%
+Commercial,Cumberland,2015,3067,3,0.09%
+Riverton,Burlington,2015,1943,2,0.09%
+Cranford,Union,2015,15906,14,0.09%
+Pemberton,Burlington,2015,1032,1,0.09%
+Woodbury Heights,Gloucester,2015,2070,2,0.09%
+Piscataway,Middlesex,2015,30116,26,0.09%
+Franklin,Gloucester,2015,11612,10,0.09%
+Hoboken,Hudson,2015,19782,17,0.09%
+Woodbury,Gloucester,2015,5726,5,0.09%
+East Brunswick,Middlesex,2015,31289,27,0.09%
+Bergenfield,Bergen,2015,15182,13,0.08%
+Greenwich,Gloucester,2015,3560,3,0.08%
+Somerdale,Camden,2015,3442,3,0.08%
+Harvey Cedars,Ocean,2015,357,0,0.08%
+Washington,Warren,2015,4183,4,0.08%
+Manalapan,Monmouth,2015,26959,22,0.08%
+Ventnor City,Atlantic,2015,5786,5,0.08%
+Rockaway,Morris,2015,4224,4,0.08%
+Parsippany-Troy Hills,Morris,2015,34684,29,0.08%
+Ringwood,Passaic,2015,8479,7,0.08%
+Fairfield,Essex,2015,4874,4,0.08%
+Avalon,Cape May,2015,1232,1,0.08%
+South Harrison,Gloucester,2015,2251,2,0.08%
+Holland,Hunterdon,2015,4131,3,0.08%
+Swedesboro,Gloucester,2015,1510,1,0.08%
+Dennis,Cape May,2015,4924,4,0.08%
+Haddon Heights,Camden,2015,5052,4,0.08%
+West Orange,Essex,2015,27101,21,0.08%
+Keyport,Monmouth,2015,4212,3,0.08%
+Boonton,Morris,2015,5544,4,0.08%
+Edison,Middlesex,2015,60480,47,0.08%
+Oaklyn,Camden,2015,2709,2,0.08%
+Ridgefield,Bergen,2015,6463,5,0.08%
+Wyckoff,Bergen,2015,11639,9,0.08%
+Hampton,Hunterdon,2015,907,1,0.08%
+West Cape May,Cape May,2015,652,1,0.08%
+Branchville,Sussex,2015,526,0,0.08%
+Pleasantville,Atlantic,2020,9236,7,0.08%
+East Rutherford,Bergen,2015,5282,4,0.08%
+Plainfield,Union,2015,20832,16,0.08%
+Evesham,Burlington,2015,31935,24,0.08%
+Lavallette,Ocean,2015,1597,1,0.08%
+North Brunswick,Middlesex,2015,24907,19,0.07%
+Surf City,Ocean,2015,939,1,0.07%
+Roselle Park,Union,2015,8058,6,0.07%
+Oceanport,Monmouth,2015,4035,3,0.07%
+Lumberton,Burlington,2015,8118,6,0.07%
+Westampton,Burlington,2015,6096,5,0.07%
+Mahwah,Bergen,2015,16288,12,0.07%
+Egg Harbor,Atlantic,2015,27423,20,0.07%
+Glen Ridge,Essex,2015,4361,3,0.07%
+Ocean,Monmouth,2015,18175,13,0.07%
+Burlington,Burlington,2015,14191,10,0.07%
+South River,Middlesex,2015,9674,7,0.07%
+Shamong,Burlington,2015,4841,4,0.07%
+Shrewsbury,Monmouth,2015,693,1,0.07%
+Point Pleasant,Ocean,2015,13208,10,0.07%
+Tabernacle,Burlington,2015,5297,4,0.07%
+Brick,Ocean,2015,53207,38,0.07%
+Maywood,Bergen,2015,5616,4,0.07%
+Hardyston,Sussex,2015,6054,4,0.07%
+Eatontown,Monmouth,2015,8738,6,0.07%
+Winslow,Camden,2015,24412,17,0.07%
+Middletown,Monmouth,2015,45668,32,0.07%
+Avon-by-the-Sea,Monmouth,2015,1423,1,0.07%
+West Caldwell,Essex,2015,6833,5,0.07%
+Allendale,Bergen,2015,4418,3,0.07%
+Raritan,Somerset,2015,4431,3,0.07%
+Freehold,Monmouth,2015,5153,4,0.07%
+Mullica,Atlantic,2015,4152,3,0.07%
+Park Ridge,Bergen,2015,5742,4,0.07%
+New Brunswick,Middlesex,2015,14721,10,0.07%
+Vernon,Sussex,2015,16891,12,0.07%
+New Hanover,Burlington,2015,1160,1,0.07%
+Bradley Beach,Monmouth,2015,2960,2,0.07%
+Hasbrouck Heights,Bergen,2015,7454,5,0.07%
+Ocean City,Cape May,2015,7512,5,0.07%
+Tuckerton,Ocean,2015,2256,2,0.07%
+Byram,Sussex,2015,6017,4,0.07%
+Matawan,Monmouth,2015,5886,4,0.07%
+Bridgewater,Somerset,2015,29384,19,0.07%
+Caldwell,Essex,2015,5218,3,0.07%
+Gibbsboro,Camden,2015,1535,1,0.07%
+Upper Freehold,Monmouth,2015,5221,3,0.07%
+Long Branch,Monmouth,2015,16830,11,0.06%
+Helmetta,Middlesex,2015,1546,1,0.06%
+Harrison,Hudson,2015,5730,4,0.06%
+Waterford,Camden,2015,6977,5,0.06%
+Margate City,Atlantic,2015,4817,3,0.06%
+Hainesport,Burlington,2015,4666,3,0.06%
+Green,Sussex,2015,2492,2,0.06%
+Mansfield,Warren,2015,5771,4,0.06%
+Little Ferry,Bergen,2015,6242,4,0.06%
+Eastampton,Burlington,2015,4070,3,0.06%
+Berlin,Camden,2015,4560,3,0.06%
+Hamburg,Sussex,2015,2359,2,0.06%
+Riverside,Burlington,2015,4887,3,0.06%
+Montague,Sussex,2015,2681,2,0.06%
+Ogdensburg,Sussex,2020,1580,1,0.06%
+Millville,Cumberland,2015,16275,10,0.06%
+Deptford,Gloucester,2015,19764,13,0.06%
+Butler,Morris,2015,4750,3,0.06%
+Hackensack,Bergen,2015,22056,14,0.06%
+Moonachie,Bergen,2015,1587,1,0.06%
+Newton,Sussex,2015,4296,3,0.06%
+Jefferson,Morris,2015,15646,10,0.06%
+North Wildwood,Cape May,2015,2718,2,0.06%
+Wantage,Sussex,2015,8198,5,0.06%
+Greenwich,Warren,2015,3700,2,0.06%
+Beverly,Burlington,2015,1480,1,0.06%
+Prospect Park,Passaic,2015,2634,2,0.06%
+West Wildwood,Cape May,2015,331,0,0.06%
+Jersey City,Hudson,2015,81724,49,0.06%
+Waldwick,Bergen,2015,6660,4,0.06%
+Delanco,Burlington,2015,3170,2,0.06%
+Wildwood,Cape May,2015,2840,2,0.06%
+Haledon,Passaic,2015,4196,3,0.06%
+New Providence,Union,2015,7562,5,0.06%
+North Plainfield,Somerset,2015,11991,7,0.06%
+Brigantine,Atlantic,2015,6844,4,0.06%
+Delran,Burlington,2015,10852,6,0.06%
+Washington,Gloucester,2015,31718,18,0.06%
+Clinton,Hunterdon,2015,8447,5,0.06%
+Lafayette,Sussex,2015,1731,1,0.06%
+Hazlet,Monmouth,2015,13764,8,0.06%
+Pemberton,Burlington,2015,18353,11,0.06%
+Aberdeen,Monmouth,2015,12240,7,0.06%
+Tinton Falls,Monmouth,2015,11725,7,0.06%
+Corbin City,Atlantic,2015,350,0,0.06%
+Hamilton,Atlantic,2015,16283,9,0.06%
+Florence,Burlington,2015,8951,5,0.06%
+Verona,Essex,2015,8811,5,0.06%
+Rahway,Union,2015,15960,9,0.06%
+Liberty,Warren,2015,2133,1,0.06%
+Boonton,Morris,2015,3212,2,0.06%
+Mount Olive,Morris,2015,19279,11,0.06%
+Washington,Warren,2015,5015,3,0.06%
+Randolph,Morris,2015,17804,10,0.06%
+Ewing,Mercer,2015,21607,12,0.06%
+Oakland,Bergen,2015,9035,5,0.06%
+Woodland Park,Passaic,2015,7417,4,0.06%
+Galloway,Atlantic,2015,21578,12,0.06%
+Rutherford,Bergen,2015,11083,6,0.06%
+Wayne,Passaic,2015,34528,19,0.06%
+Gloucester,Camden,2015,41195,23,0.05%
+Camden,Camden,2020,25563,14,0.05%
+Jackson,Ocean,2015,38627,21,0.05%
+Howell,Monmouth,2015,34798,19,0.05%
+Folsom,Atlantic,2015,1283,1,0.05%
+Springfield,Burlington,2015,2572,1,0.05%
+Beachwood,Ocean,2015,7365,4,0.05%
+Woolwich,Gloucester,2015,7378,4,0.05%
+Hamilton,Mercer,2015,58255,32,0.05%
+Monroe,Gloucester,2015,23516,13,0.05%
+Willingboro,Burlington,2015,18547,10,0.05%
+Salem,Salem,2015,2046,1,0.05%
+Allamuchy,Warren,2015,3549,2,0.05%
+Pennsville,Salem,2015,9387,5,0.05%
+North Hanover,Burlington,2015,4696,3,0.05%
+Roxbury,Morris,2015,15971,9,0.05%
+North Caldwell,Essex,2015,4728,3,0.05%
+Rockaway,Morris,2015,17039,9,0.05%
+Bridgeton,Cumberland,2015,8152,4,0.05%
+Northfield,Atlantic,2015,5516,3,0.05%
+Hackettstown,Warren,2015,5707,3,0.05%
+South Plainfield,Middlesex,2015,15601,8,0.05%
+Freehold,Monmouth,2015,23432,12,0.05%
+North Arlington,Bergen,2015,9560,5,0.05%
+Wall,Monmouth,2015,18509,10,0.05%
+Edgewater Park,Burlington,2015,5794,3,0.05%
+Winfield,Union,2015,970,1,0.05%
+Andover,Sussex,2015,3946,2,0.05%
+Little Egg Harbor,Ocean,2015,14316,7,0.05%
+Linden,Union,2015,22877,12,0.05%
+Hawthorne,Passaic,2015,12032,6,0.05%
+West Milford,Passaic,2015,18726,9,0.05%
+New Milford,Bergen,2015,10231,5,0.05%
+Clark,Union,2015,10246,5,0.05%
+Union Beach,Monmouth,2015,3702,2,0.05%
+Manville,Somerset,2015,6219,3,0.05%
+Downe,Cumberland,2015,1041,1,0.05%
+Fair Lawn,Bergen,2015,20699,10,0.05%
+Hope,Warren,2015,1471,1,0.05%
+Old Bridge,Middlesex,2015,42870,20,0.05%
+Little Silver,Monmouth,2015,4255,2,0.05%
+North Haledon,Passaic,2015,5998,3,0.05%
+Clementon,Camden,2015,3074,1,0.05%
+Hardwick,Warren,2015,1099,1,0.05%
+Stratford,Camden,2015,4398,2,0.05%
+Lindenwold,Camden,2015,9546,4,0.05%
+Interlaken,Monmouth,2015,667,0,0.04%
+Woodbridge,Middlesex,2015,57597,26,0.04%
+Little Falls,Passaic,2015,8799,4,0.04%
+East Greenwich,Gloucester,2015,6788,3,0.04%
+Toms River,Ocean,2015,61597,27,0.04%
+Dumont,Bergen,2015,11333,5,0.04%
+Lopatcong,Warren,2015,5458,2,0.04%
+Manchester,Ocean,2015,30775,14,0.04%
+Pine Hill,Camden,2015,5938,3,0.04%
+Lodi,Bergen,2015,13518,6,0.04%
+Wallington,Bergen,2015,7119,3,0.04%
+Independence,Warren,2015,4154,2,0.04%
+Phillipsburg,Warren,2015,8309,4,0.04%
+Hampton,Sussex,2015,3947,2,0.04%
+Perth Amboy,Middlesex,2015,20012,9,0.04%
+Mantua,Gloucester,2015,10726,5,0.04%
+Wildwood Crest,Cape May,2015,2345,1,0.04%
+Gloucester City,Camden,2015,5867,3,0.04%
+Hillside,Union,2015,11814,5,0.04%
+Pennsauken,Camden,2015,20879,9,0.04%
+Runnemede,Camden,2015,5025,2,0.04%
+Stillwater,Sussex,2015,3113,1,0.04%
+Vineland,Cumberland,2015,34378,14,0.04%
+Logan,Gloucester,2015,4126,2,0.04%
+Fredon,Sussex,2015,2453,1,0.04%
+Wanaque,Passaic,2015,7375,3,0.04%
+Buena Vista,Atlantic,2015,5217,2,0.04%
+Clifton,Passaic,2015,45145,18,0.04%
+Manasquan,Monmouth,2015,4287,2,0.04%
+Blairstown,Warren,2015,4311,2,0.04%
+Green Brook,Somerset,2015,4822,2,0.04%
+Kinnelon,Morris,2015,7680,3,0.04%
+Kearny,Hudson,2015,20607,8,0.04%
+Stanhope,Sussex,2015,2584,1,0.04%
+Lower,Cape May,2015,15385,6,0.04%
+Nutley,Essex,2015,18002,7,0.04%
+Frelinghuysen,Warren,2015,1836,1,0.04%
+Maple Shade,Burlington,2015,12599,5,0.04%
+Glassboro,Gloucester,2015,10829,4,0.04%
+Berkeley,Ocean,2015,29667,11,0.04%
+Neptune City,Monmouth,2015,2931,1,0.04%
+Hopatcong,Sussex,2015,10925,4,0.04%
+Stafford,Ocean,2015,18722,7,0.04%
+East Newark,Hudson,2015,805,0,0.04%
+Bass River,Burlington,2015,1080,0,0.04%
+Spotswood,Middlesex,2015,5461,2,0.04%
+Pittsgrove,Salem,2015,6576,2,0.04%
+Pohatcong,Warren,2015,2480,1,0.04%
+Cliffside Park,Bergen,2015,13423,5,0.04%
+Fairfield,Cumberland,2015,3082,1,0.04%
+Neptune,Monmouth,2015,17382,6,0.04%
+Springfield,Union,2015,11511,4,0.04%
+Brooklawn,Camden,2015,1131,0,0.04%
+Seaside Heights,Ocean,2015,1428,1,0.04%
+Weymouth,Atlantic,2015,2012,1,0.03%
+Pilesgrove,Salem,2015,2877,1,0.03%
+Oxford,Warren,2015,1730,1,0.03%
+Atlantic Highlands,Monmouth,2015,3221,1,0.03%
+Deerfield,Cumberland,2015,2052,1,0.03%
+Westville,Gloucester,2015,2659,1,0.03%
+Lacey,Ocean,2015,20857,7,0.03%
+Elmwood Park,Bergen,2015,11958,4,0.03%
+Woodstown,Salem,2015,2396,1,0.03%
+Sayreville,Middlesex,2015,27715,9,0.03%
+Bayonne,Hudson,2015,30262,10,0.03%
+Barnegat,Ocean,2015,14320,5,0.03%
+Upper Deerfield,Cumberland,2015,5580,2,0.03%
+Hopewell,Cumberland,2015,3103,1,0.03%
+Alpha,Warren,2015,1552,1,0.03%
+Clayton,Gloucester,2015,5293,2,0.03%
+Absecon,Atlantic,2015,5679,2,0.03%
+Knowlton,Warren,2015,2211,1,0.03%
+Laurel Springs,Camden,2015,1267,0,0.03%
+North Bergen,Hudson,2015,25672,8,0.03%
+Hillsdale,Bergen,2015,6741,2,0.03%
+Washington,Burlington,2015,642,0,0.03%
+Wenonah,Gloucester,2015,1616,1,0.03%
+Pitman,Gloucester,2015,6148,2,0.03%
+Plumsted,Ocean,2015,5847,2,0.03%
+Mannington,Salem,2015,975,0,0.03%
+Lyndhurst,Bergen,2015,12696,4,0.03%
+Palisades Park,Bergen,2015,9964,3,0.03%
+Garfield,Bergen,2015,16654,5,0.03%
+Harmony,Warren,2015,2031,1,0.03%
+Woodland,Burlington,2015,1020,0,0.03%
+Fairview,Bergen,2015,6832,2,0.03%
+East Orange,Essex,2015,24470,7,0.03%
+Trenton,Mercer,2015,29482,8,0.03%
+Rochelle Park,Bergen,2015,3525,1,0.03%
+Roselle,Union,2015,10664,3,0.03%
+Union City,Hudson,2015,17479,5,0.03%
+West New York,Hudson,2015,15049,4,0.03%
+River Edge,Bergen,2015,7194,2,0.03%
+Mount Ephraim,Camden,2015,2886,1,0.03%
+Brielle,Monmouth,2015,3621,1,0.03%
+Atlantic City,Atlantic,2015,11389,3,0.03%
+Union,Union,2015,34244,9,0.03%
+South Amboy,Middlesex,2015,6190,2,0.03%
+Stow Creek,Cumberland,2015,1175,0,0.03%
+East Hanover,Morris,2015,7866,2,0.03%
+Newark,Essex,2015,79073,20,0.03%
+Dunellen,Middlesex,2015,4345,1,0.03%
+Highlands,Monmouth,2015,3595,1,0.03%
+Lower Alloways Creek,Salem,2015,1208,0,0.02%
+Carlstadt,Bergen,2015,3752,1,0.02%
+Elsinboro,Salem,2015,836,0,0.02%
+White,Warren,2015,3516,1,0.02%
+West Deptford,Gloucester,2015,14963,3,0.02%
+Carteret,Middlesex,2015,13234,3,0.02%
+Belleville,Essex,2015,18990,4,0.02%
+Guttenberg,Hudson,2015,3686,1,0.02%
+Quinton,Salem,2015,1872,0,0.02%
+Linwood,Atlantic,2015,4728,1,0.02%
+Emerson,Bergen,2015,4756,1,0.02%
+Kenilworth,Union,2015,5293,1,0.02%
+Bogota,Bergen,2015,4848,1,0.02%
+City of Orange,Essex,2015,10257,2,0.02%
+Alloway,Salem,2015,2475,1,0.02%
+South Toms River,Ocean,2015,2029,0,0.02%
+Penns Grove,Salem,2015,2061,0,0.02%
+Pequannock,Morris,2015,10514,2,0.02%
+Roosevelt,Monmouth,2015,526,0,0.02%
+Ocean,Ocean,2015,6884,1,0.02%
+Lakewood,Ocean,2015,33720,6,0.02%
+Belvidere,Warren,2015,1721,0,0.02%
+Passaic,Passaic,2015,17246,3,0.02%
+Dover,Morris,2015,8237,1,0.02%
+Paterson,Passaic,2015,43819,7,0.02%
+Totowa,Passaic,2015,6392,1,0.02%
+Somers Point,Atlantic,2015,6577,1,0.02%
+Lawrence,Cumberland,2015,2034,0,0.01%
+Audubon,Camden,2015,6212,1,0.01%
+Bellmawr,Camden,2015,7034,1,0.01%
+Pompton Lakes,Passaic,2015,7062,1,0.01%
+Lincoln Park,Morris,2015,7119,1,0.01%
+Maurice River,Cumberland,2015,2178,0,0.01%
+Audubon Park,Camden,2015,743,0,0.01%
+Pleasantville,Atlantic,2015,9155,1,0.01%
+Victory Gardens,Morris,2015,764,0,0.01%
+Carneys Point,Salem,2015,4652,1,0.01%
+Saddle Brook,Bergen,2015,9434,1,0.01%
+Middlesex,Middlesex,2015,9150,1,0.01%
+Mount Arlington,Morris,2015,3744,0,0.01%
+Estell Manor,Atlantic,2015,1249,0,0.01%
+South Hackensack,Bergen,2015,1415,0,0.01%
+Buena,Atlantic,2015,2946,0,0.01%
+Elizabeth,Union,2015,45271,3,0.01%
+Camden,Camden,2015,22752,1,0.01%
+Keansburg,Monmouth,2015,5778,0,0.00%
+Irvington,Essex,2015,20693,0,0.00%
+Bound Brook,Somerset,2015,5681,0,0.00%
+Norwood,Bergen,2015,4133,0,0.00%
+Wharton,Morris,2015,3623,0,0.00%
+Paulsboro,Gloucester,2015,3234,0,0.00%
+Berlin,Camden,2015,3128,0,0.00%
+Garwood,Union,2015,2937,0,0.00%
+High Bridge,Hunterdon,2015,2677,0,0.00%
+Mine Hill,Morris,2015,2249,0,0.00%
+Netcong,Morris,2015,2178,0,0.00%
+National Park,Gloucester,2015,1809,0,0.00%
+Ogdensburg,Sussex,2015,1743,0,0.00%
+Pine Beach,Ocean,2015,1608,0,0.00%
+Lawnside,Camden,2015,1547,0,0.00%
+Ocean Gate,Ocean,2015,1410,0,0.00%
+Sea Isle City,Cape May,2015,1398,0,0.00%
+Seaside Park,Ocean,2015,1357,0,0.00%
+Oldmans,Salem,2015,1316,0,0.00%
+Eagleswood,Ocean,2015,1187,0,0.00%
+Chesilhurst,Camden,2015,976,0,0.00%
+Greenwich,Cumberland,2015,747,0,0.00%
+Deal,Monmouth,2015,542,0,0.00%
+Barnegat Light,Ocean,2015,511,0,0.00%
+Shiloh,Cumberland,2015,388,0,0.00%
+Cape May Point,Cape May,2015,185,0,0.00%
+Teterboro,Bergen,2015,53,0,0.00%
+Tavistock,Camden,2015,6,0,0.00%
+Walpack,Sussex,2015,5,0,0.00%
+Pine Valley,Camden,2015,2,0,0.00%

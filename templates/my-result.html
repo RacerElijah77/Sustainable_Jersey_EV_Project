@@ -1,0 +1,47 @@
+<!-- /templates/my-result.html-->
+<!-- Madison Bavosa, Emmanuel Pasteur, EJ Gasataya -->
+<!-- CSC 315 - Databases (UI For Group Project on Sustainable Jersey) -->
+<!-- This is the file that will render the table after the selected query was made -->
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>GHG, VMT, and EV Comparisonss</title>
+        
+        <!-- Import the Bootstrap library, local CSS file and Google Fonts for custom styling -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Bebas+Neue&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <!-- Table tag used to iterate through the selected SQL relation used in the query -->
+        <table class="table table-striped">
+            <!-- column header for loop in jinja template -->
+            <!-- Used by the flask library, embedded jinja code -->
+            <thead class = "thead-dark">
+                <tr>
+                {%for head in heads%}
+                    <th>{{head}}</th>
+                {%endfor%}
+                </tr>
+            </thead>
+            <!-- nested for loops in jinja template -->
+            <tbody>
+            {%for row in rows%}
+                <tr>
+                {%for col in row%}
+                    <td>{{col}}</td>
+                {%endfor%}
+                </tr>
+            {%endfor%}
+            </tbody>
+        </table>
+    </body>
+</html>

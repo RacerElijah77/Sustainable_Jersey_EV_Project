@@ -1,0 +1,159 @@
+<!-- /templates/my-form.html-->
+<!-- Madison Bavosa, Emmanuel Pasteur, EJ Gasataya -->
+<!-- CSC 315 - Databases (UI For Group Project on Sustainable Jersey) -->
+<!-- This is the file that will render the table after the selected query was made -->
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <title>GHG, VMT, and EV Comparisons</title>
+        <!-- Import the Bootstrap library, local CSS file and Google Fonts for styling -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Bebas+Neue&display=swap" rel="stylesheet">
+        
+    </head>
+
+
+    <body class = "main-page-ui">
+
+        <!-- Div that contains the main intro page about the description of our project -->
+        <div class = "text-center intro-section rounded">
+
+            <img src="/css/SNJ_CertifiedLog_TAGLINE.png" alt="Sustainable Jersey Logo" class="img-thumbnail">
+            
+            <h1 style="color:white">SUSTAINABLE JERSEY: Greenhouse  Gas, VMT, & EV Usage Analysis</h1>
+            <p style ="color: white">
+                The purpose of this module is to investigate which municipalities in New Jersey emit high amounts
+                of greenhouse gases, and determining whether the municipality contains a low EV usage based on the ratio
+                between the number of personal vehicles owned, and those who have an electric vehicle.
+            </p>
+            <p style = "color: white;">
+                If we observe that the municipality entry on a table contains high GHG emissisions and Vehicle Miles Traveled relative to low EV usage, this suspects that
+                that car manufacturers should increase the number of EV's in that area. 
+            </p>
+
+            <p style = "color: white;">
+                Collaborative Sustainability Project by: Madison Bavosa, EJ Gasataya, Kristen Libonati, Jessica Malek, Emmanuel Pasteur
+                for CSC315 & BUS/MGT385
+            </p>
+
+        </div>
+
+        <!-- Div that contains entry box for entering zip code; it will return the following cities with the corresponding zip -->
+        <div class = "text-center query-box rounded">
+            
+            <h2>Zip Code Query</h2>
+            <form action="/zip-handler" method="POST">
+                <p style="color: #292929">
+                    This section will be used to identify the municipality and county name from a given ZIP Code. Users can enter the ZIP as follows (Ex. 08610, or 8610)
+                </p>
+                <div>
+                     Enter the following zip code for query!
+                    <input type="text" name="zip">
+                </div>
+                    <br>
+                    <button type="submit" class="btn btn-primary">Submit ZIP Code Data</button>
+            </form>
+        </div>
+
+        <!-- Div that contains SLIDERS as query input to grab the ranges of VMT calulated, and list all the municipalities for each
+        that fall within the min/max range of the sliders. -->
+        <div class = "text-center query-box rounded">
+
+            <h2>VMT Usage Range Sliders </h2>
+            <p style="color: #292929">
+                The goal of this section is to return the list of municipalities 
+                from a given min and max range for VMT (Vehicle Miles Traveled) calculations. The values of the sliders is measured in Miles,
+                where each slider can range from 0 - (1 x 10e9). The table will also return the ratio between the number of EVs in that municipality, and the total
+                number of personal vehicles as seperate columns.
+            </p>
+            <form action="/vmt_data_handler" method="POST">
+                <div>
+                    Enter MIN. Range for VMT Usage
+                    <input id = "slider" type="range" name="min_vmt" min='0' max='1000000000' step="100000">
+                    <p>Min VMT Range: <output style="color:#9E1D20;"id="value"></output> miles</p>
+                </div>
+                <br>
+                <div>
+                    Enter MAX. Range for VMT Usage
+                    <input id = "slider2" type="range" name="max_vmt" min='0' max='1000000000' step="100000">
+                    <p>Max VMT Range: <output style="color:#9E1D20;"id="value2"></output> miles</p>
+                </div>
+                    <button type="submit" class="btn btn-primary">Submit VMT Data</button>
+            </form>
+        </div>
+
+        <!-- Div that contains SLIDERS as query input to grab the ranges of GHG calulated, and list all the municipalities for each
+        that fall within the min/max range of the sliders. -->
+        <div class = "text-center query-box rounded">
+
+            <h2>GHG Usage Range Sliders </h2>
+            <p style="color: #292929">
+                The goal of this section is to return the list of municipalities 
+                from a given min and max range for GHG (Greenhouse Gas) Emissions. The values of the sliders is measured in Metric Tons Carbon Dioxide,
+                where each slider can range from 0 - (1000000). The table will also return the ratio between the number of EVs in that municipality, and the total
+                number of personal vehicles as seperate columns.
+            </p>
+            <form action="/ghg-handler" method="POST">
+                <div>
+                    Enter MIN. Range for GHG Usage
+                    <input id = "slider3" type="range" name="ghg_min" min='0' max='1000000' step="50000">
+                    <p>Min GHG Range: <output style="color:#9E1D20;"id="value3"></output> carbon tons</p>
+                </div>
+                <br>
+                <div>
+                    Enter MAX. Range for GHG Usage
+                    <input id = "slider4" type="range" name="ghg_max" min='0' max='1000000' step="50000">
+                    <p>Max GHG Range: <output style="color:#9E1D20;"id="value4"></output> carbon tons</p>
+                </div>
+                    <button type="submit" class="btn btn-primary">Submit GHG Data</button>
+            </form>
+        </div>
+
+        <!-- JavaScript code for handling slider logic (Get range values) -->
+        <script>
+            
+            // Slider Event for the MIN VMT usage
+            const value = document.querySelector("#value")
+            const input = document.querySelector("#slider")
+            value.textContent = input.value
+            input.addEventListener("input", (event) => {
+                value.textContent = event.target.value
+            })
+            
+            // Slider Event for the MAX VMT usage
+            const value2 = document.querySelector("#value2")
+            const input2 = document.querySelector("#slider2")
+            value2.textContent = input2.value
+            input2.addEventListener("input", (event) => {
+                value2.textContent = event.target.value
+            })
+
+            // Slider Event for the MIN GHG usage
+            const value3 = document.querySelector("#value3")
+            const input3 = document.querySelector("#slider3")
+            value3.textContent = input3.value
+            input3.addEventListener("input", (event) => {
+                value3.textContent = event.target.value
+            })
+
+             // Slider Event for the MAX GHG usage
+             const value4 = document.querySelector("#value4")
+            const input4 = document.querySelector("#slider4")
+            value4.textContent = input4.value
+            input4.addEventListener("input", (event) => {
+                value4.textContent = event.target.value
+            })
+    
+        </script>
+
+    </body>
+
+</html>
