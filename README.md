@@ -1,7 +1,6 @@
-# Collaborative Project for CSC 315 - "Sustainable Jersey"
+# Project for CSC 315 - "Sustainable Jersey"
 
 ## Project Contributors:
-### Professor: Dr. DeGood
 ### Developers: Emmanuel Pasteur, Madison Bavosa, EJ Gasataya
 ### Last Updated: 4/23/23 (for submission on Phase 5b + Added BASH script for simple loading)
 
