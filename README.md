@@ -1,4 +1,4 @@
-# Project for CSC 315 - "Sustainable Jersey"
+# Project for Database Systems - "Sustainable Jersey"
 
 ## Project Contributors:
 ### Developers: Emmanuel Pasteur, Madison Bavosa, EJ Gasataya
