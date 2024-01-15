@@ -1,7 +1,4 @@
 # Project for Database Systems - "Sustainable Jersey"
-
-## Project Contributors:
-### Developers: Emmanuel Pasteur, Madison Bavosa, EJ Gasataya
 ### Last Updated: 4/23/23 (for submission on Phase 5b + Added BASH script for simple loading)
 
 ## Installation Guide
